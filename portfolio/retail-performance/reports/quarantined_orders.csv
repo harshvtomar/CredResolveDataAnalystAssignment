@@ -1,0 +1,7 @@
+order_id,customer_id,order_date,region,category,channel,quantity,unit_price_paise,unit_cost_paise,discount_pct,status,rejection_reason
+O00013,C0071,2025-04-23,West,Fitness,Organic,-1,200100,120060,0,Completed,"Failed required field, date, category or numeric validation"
+O00014,C0217,2025-12-15,North,Home,Paid Search,-1,179000,102030,15,Cancelled,"Failed required field, date, category or numeric validation"
+O00016,C0233,2025-03-22,North,Accessories,Marketplace,-1,67600,28392,15,Completed,"Failed required field, date, category or numeric validation"
+O00015,C0349,2025-01-06,North,Accessories,Marketplace,-1,73700,30954,20,Completed,"Failed required field, date, category or numeric validation"
+O00017,C0260,2025-11-24,South,Electronics,Organic,-1,367200,264384,0,Completed,"Failed required field, date, category or numeric validation"
+O00018,C0010,2025-09-08,North,Electronics,Paid Search,-1,377700,271944,0,Completed,"Failed required field, date, category or numeric validation"

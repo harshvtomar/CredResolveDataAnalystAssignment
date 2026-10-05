@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+reports/retail.sqlite
+reports/orders_clean.csv
+reports/dashboard.png
+.ipynb_checkpoints/

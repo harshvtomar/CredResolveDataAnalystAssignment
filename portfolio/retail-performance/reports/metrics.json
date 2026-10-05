@@ -1,0 +1,19 @@
+{
+  "quality": {
+    "raw_rows": 1220,
+    "exact_duplicates_removed": 20,
+    "missing_regions_labeled": 12,
+    "quarantined_rows": 6,
+    "valid_orders": 1194
+  },
+  "kpis": {
+    "net_revenue_inr": 4677664.75,
+    "gross_profit_inr": 1433298.67,
+    "gross_margin_pct": 30.641329522386144,
+    "completed_orders": 1034,
+    "return_rate_pct": 8.251996450754215,
+    "average_order_value_inr": 4523.853723404255,
+    "purchasing_customers": 329,
+    "repeat_customer_share_pct": 84.80243161094225
+  }
+}

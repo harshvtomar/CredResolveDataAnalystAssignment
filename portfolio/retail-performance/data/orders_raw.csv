@@ -1,0 +1,1221 @@
+order_id,customer_id,order_date,region,category,channel,quantity,unit_price_paise,unit_cost_paise,discount_pct,status
+O00854,C0059,2025-05-03,South,Home,Organic,1,139400,79458,0,Completed
+O01182,C0053,2025-01-23,East,Electronics,Organic,4,253600,182592,0,Completed
+O01088,C0277,2025-12-06,South,Electronics,Organic,2,442400,318528,0,Completed
+O00927,C0191,2025-05-17,West,Home,Paid Search,2,106600,60762,0,Completed
+O01119,C0319,2025-03-07,West,Accessories,Organic,3,59600,25032,5,Completed
+O00294,C0325,2025-01-16,East,Fitness,Paid Search,4,192800,115680,0,Completed
+O01180,C0044,2025-06-23,South,Electronics,Organic,4,467100,336312,15,Returned
+O01188,C0336,2025-03-18,South,Electronics,Paid Search,2,245800,176976,10,Completed
+O00948,C0281,2025-03-04,East,Fitness,Organic,1,126400,75840,10,Completed
+O00197,C0137,2025-09-23,North,Accessories,Marketplace,4,86200,36204,0,Completed
+O00109,C0283,2025-06-20,West,Fitness,Paid Search,3,196600,117960,0,Cancelled
+O00247,C0240,2025-09-16,East,Fitness,Organic,1,153400,92040,5,Completed
+O00638,C0010,2025-02-25,East,Accessories,Marketplace,4,89600,37632,0,Cancelled
+O00047,C0134,2025-03-01,South,Accessories,Marketplace,3,46800,19656,0,Completed
+O01167,C0258,2025-08-22,East,Electronics,Paid Search,2,455000,327600,5,Completed
+O00147,C0285,2025-03-08,North,Accessories,Marketplace,3,86900,36498,20,Completed
+O00860,C0112,2025-08-05,South,Home,Organic,2,193600,110352,0,Cancelled
+O00603,C0129,2025-03-10,North,Accessories,Paid Search,4,82400,34608,15,Completed
+O00980,C0216,2025-05-23,West,Home,Paid Search,1,102700,58539,10,Completed
+O00519,C0201,2025-07-07,South,Fitness,Marketplace,3,156400,93840,0,Completed
+O00952,C0085,2025-02-15,North,Accessories,Marketplace,3,78400,32928,15,Completed
+O00283,C0317,2025-01-31,West,Fitness,Marketplace,4,202400,121440,0,Completed
+O00505,C0038,2025-01-24,East,Electronics,Marketplace,1,484800,349056,5,Completed
+O01192,C0253,2025-10-01,South,Fitness,Paid Search,1,236300,141780,15,Completed
+O00127,C0240,2025-02-28,North,Accessories,Organic,2,86500,36330,20,Completed
+O00890,C0300,2025-12-06,South,Accessories,Marketplace,1,74200,31164,15,Completed
+O00623,C0041,2025-07-15,North,Electronics,Paid Search,3,481000,346320,10,Completed
+O00910,C0224,2025-05-04,South,Home,Organic,3,164400,93708,10,Completed
+O00569,C0069,2025-09-13,East,Home,Paid Search,3,141000,80370,5,Completed
+O01095,C0348,2025-07-06,South,Accessories,Marketplace,2,84800,35616,0,Completed
+O00999,C0185,2025-10-27,North,Home,Organic,2,162500,92625,0,Completed
+O00368,C0150,2025-04-13,East,Electronics,Marketplace,2,396100,285192,10,Completed
+O00587,C0135,2025-04-23,North,Fitness,Paid Search,2,203400,122040,15,Completed
+O00785,C0336,2025-06-25,East,Fitness,Paid Search,4,244500,146700,10,Completed
+O00242,C0027,2025-04-30,North,Home,Paid Search,3,163200,93024,20,Completed
+O00934,C0277,2025-09-24,East,Fitness,Organic,1,151800,91080,15,Completed
+O00900,C0115,2025-12-13,South,Accessories,Paid Search,1,69100,29022,5,Completed
+O00798,C0229,2025-06-07,North,Accessories,Organic,4,63300,26586,20,Cancelled
+O00981,C0116,2025-01-13,West,Electronics,Organic,2,479200,345024,0,Completed
+O00946,C0192,2025-06-06,East,Electronics,Paid Search,4,397100,285912,0,Completed
+O00600,C0128,2025-02-15,South,Accessories,Paid Search,1,84800,35616,20,Completed
+O00555,C0133,2025-03-01,North,Electronics,Paid Search,2,442400,318528,20,Completed
+O01024,C0346,2025-02-23,South,Electronics,Organic,4,315200,226944,0,Completed
+O00460,C0119,2025-11-26,West,Electronics,Paid Search,3,349800,251856,10,Completed
+O01170,C0282,2025-02-12,East,Accessories,Marketplace,2,62000,26040,10,Returned
+O00379,C0263,2025-07-22,North,Home,Marketplace,3,134300,76551,5,Completed
+O01199,C0173,2025-07-30,West,Accessories,Marketplace,1,69400,29148,5,Completed
+O00030,C0278,2025-10-24,North,Home, paid search ,3,103800,59166,0,Completed
+O00726,C0230,2025-05-28,West,Fitness,Marketplace,3,128400,77040,15,Completed
+O00180,C0348,2025-07-08,West,Fitness,Paid Search,3,165700,99420,10,Completed
+O00562,C0296,2025-04-24,South,Accessories,Organic,4,65700,27594,10,Returned
+O00576,C0267,2025-10-28,West,Accessories,Paid Search,2,83600,35112,0,Completed
+O00021,C0116,2025-05-07,North,Fitness, paid search ,1,150700,90420,15,Completed
+O00918,C0083,2025-08-30,South,Accessories,Paid Search,1,86100,36162,20,Completed
+O00427,C0026,2025-08-22,East,Home,Marketplace,2,101200,57684,5,Completed
+O00547,C0336,2025-11-11,East,Fitness,Marketplace,1,208000,124800,0,Completed
+O00350,C0044,2025-11-27,South,Home,Marketplace,3,126200,71934,20,Completed
+O00119,C0239,2025-01-05,East,Accessories,Marketplace,2,79500,33390,0,Completed
+O00255,C0271,2025-08-17,East,Electronics,Organic,1,460200,331344,0,Completed
+O00108,C0145,2025-01-02,East,Accessories,Marketplace,4,87400,36708,0,Completed
+O00324,C0071,2025-11-02,West,Fitness,Paid Search,2,211600,126960,10,Completed
+O00323,C0123,2025-03-02,East,Home,Organic,2,129900,74043,5,Completed
+O00546,C0135,2025-02-02,South,Fitness,Paid Search,1,144000,86400,15,Completed
+O01035,C0085,2025-08-19,East,Accessories,Organic,1,66300,27846,10,Completed
+O00060,C0127,2025-05-13,East,Fitness,Marketplace,4,218100,130860,20,Completed
+O00069,C0333,2025-04-25,North,Electronics,Marketplace,1,388300,279576,0,Returned
+O01041,C0268,2025-11-22,North,Fitness,Paid Search,3,135700,81420,10,Completed
+O00646,C0336,2025-03-16,South,Home,Paid Search,1,141900,80883,15,Completed
+O00990,C0318,2025-09-04,West,Accessories,Organic,2,66900,28098,0,Completed
+O00083,C0275,2025-03-03,South,Home,Organic,2,130200,74214,20,Completed
+O00115,C0148,2025-11-20,South,Electronics,Marketplace,1,341100,245592,10,Cancelled
+O00709,C0079,2025-08-02,East,Accessories,Marketplace,2,88400,37128,0,Completed
+O00554,C0194,2025-08-15,West,Accessories,Organic,3,80900,33978,10,Completed
+O00827,C0203,2025-03-15,West,Electronics,Marketplace,1,293800,211536,20,Returned
+O01009,C0218,2025-06-06,West,Fitness,Marketplace,2,170700,102420,5,Completed
+O00321,C0271,2025-09-08,East,Accessories,Marketplace,4,79700,33474,15,Completed
+O01179,C0138,2025-02-12,South,Home,Marketplace,1,123300,70281,0,Cancelled
+O00708,C0109,2025-10-07,South,Fitness,Paid Search,2,215100,129060,0,Completed
+O01027,C0106,2025-07-19,South,Fitness,Organic,3,140000,84000,10,Completed
+O00630,C0046,2025-10-22,North,Accessories,Marketplace,4,80400,33768,10,Completed
+O00405,C0088,2025-06-25,West,Electronics,Organic,1,275300,198216,15,Returned
+O01133,C0261,2025-12-13,South,Electronics,Paid Search,4,418600,301392,15,Completed
+O00733,C0332,2025-12-03,South,Home,Organic,2,136300,77691,5,Completed
+O00885,C0221,2025-07-04,East,Accessories,Paid Search,3,83600,35112,15,Completed
+O00819,C0181,2025-06-28,South,Accessories,Marketplace,2,75000,31500,15,Completed
+O00013,C0071,2025-04-23,West,Fitness,Organic,-1,200100,120060,0,Completed
+O01127,C0200,2025-06-12,South,Electronics,Paid Search,4,314900,226728,10,Completed
+O00103,C0282,2025-05-17,South,Electronics,Paid Search,4,328300,236376,20,Completed
+O00177,C0052,2025-06-01,North,Home,Marketplace,3,105800,60306,15,Completed
+O01081,C0185,2025-05-03,West,Accessories,Paid Search,1,87200,36624,5,Returned
+O00087,C0059,2025-09-02,North,Electronics,Paid Search,4,348400,250848,0,Completed
+O00231,C0057,2025-12-11,West,Accessories,Marketplace,3,62300,26166,20,Returned
+O00443,C0212,2025-06-02,North,Fitness,Organic,2,234500,140700,0,Completed
+O00394,C0104,2025-11-11,South,Electronics,Paid Search,2,380800,274176,5,Completed
+O00238,C0179,2025-09-03,East,Fitness,Paid Search,1,190900,114540,15,Completed
+O00664,C0255,2025-08-23,West,Accessories,Marketplace,1,46000,19320,15,Returned
+O00145,C0049,2025-08-01,East,Fitness,Paid Search,3,207600,124560,20,Completed
+O00763,C0038,2025-04-23,West,Home,Marketplace,4,136300,77691,0,Returned
+O00141,C0235,2025-06-04,North,Electronics,Organic,4,458500,330120,10,Completed
+O01108,C0344,2025-07-12,North,Home,Paid Search,4,164700,93879,5,Completed
+O00225,C0207,2025-07-07,East,Accessories,Organic,4,82600,34692,0,Completed
+O00605,C0080,2025-09-29,West,Home,Paid Search,3,104900,59793,15,Completed
+O00584,C0070,2025-09-25,East,Electronics,Paid Search,4,245000,176400,15,Completed
+O01079,C0050,2025-01-22,South,Electronics,Marketplace,1,483500,348120,10,Completed
+O00407,C0081,2025-08-11,North,Home,Organic,3,160000,91200,0,Cancelled
+O01093,C0097,2025-10-31,North,Electronics,Marketplace,3,384300,276696,0,Completed
+O00020,C0103,2025-10-04,East,Fitness, paid search ,3,169300,101580,10,Returned
+O00489,C0161,2025-08-02,North,Fitness,Organic,3,205300,123180,0,Completed
+O01160,C0323,2025-03-08,North,Electronics,Organic,2,288500,207720,0,Completed
+O00366,C0293,2025-02-09,East,Accessories,Organic,1,59200,24864,0,Completed
+O01181,C0246,2025-06-19,South,Home,Organic,1,129300,73701,15,Completed
+O00693,C0171,2025-06-09,South,Fitness,Marketplace,1,198800,119280,10,Completed
+O00349,C0302,2025-03-05,West,Electronics,Paid Search,4,302300,217656,5,Completed
+O00188,C0256,2025-02-26,North,Fitness,Marketplace,2,138800,83280,20,Completed
+O00945,C0062,2025-02-26,East,Electronics,Marketplace,3,412300,296856,0,Completed
+O00168,C0197,2025-09-17,West,Electronics,Marketplace,1,488300,351576,10,Returned
+O01156,C0094,2025-01-25,North,Home,Organic,1,130600,74442,20,Completed
+O01195,C0115,2025-04-18,North,Fitness,Marketplace,2,175600,105360,0,Cancelled
+O00765,C0139,2025-07-03,South,Home,Paid Search,2,162600,92682,0,Completed
+O00287,C0042,2025-12-17,North,Home,Organic,4,128600,73302,10,Completed
+O00782,C0142,2025-03-26,North,Electronics,Marketplace,2,289700,208584,10,Completed
+O00419,C0215,2025-09-25,North,Electronics,Paid Search,2,485600,349632,0,Completed
+O00472,C0255,2025-03-02,North,Fitness,Organic,4,190700,114420,10,Completed
+O00131,C0210,2025-11-29,North,Fitness,Organic,1,187800,112680,0,Completed
+O00716,C0160,2025-10-24,North,Electronics,Paid Search,1,465800,335376,10,Completed
+O01122,C0162,2025-03-20,West,Home,Paid Search,1,140800,80256,15,Completed
+O00184,C0121,2025-07-11,West,Fitness,Organic,3,228800,137280,0,Completed
+O00014,C0217,2025-12-15,North,Home,Paid Search,-1,179000,102030,15,Cancelled
+O01111,C0293,2025-06-02,South,Fitness,Organic,3,214800,128880,0,Completed
+O01076,C0031,2025-04-13,South,Home,Organic,3,116900,66633,10,Completed
+O01140,C0182,2025-06-02,North,Fitness,Organic,3,193200,115920,20,Completed
+O00359,C0090,2025-12-03,North,Accessories,Organic,2,79500,33390,20,Completed
+O00411,C0242,2025-07-23,West,Electronics,Marketplace,3,371300,267336,0,Completed
+O00739,C0078,2025-05-17,East,Electronics,Paid Search,1,404900,291528,15,Completed
+O00355,C0260,2025-07-23,East,Electronics,Marketplace,4,269700,194184,10,Completed
+O00518,C0016,2025-11-20,West,Electronics,Marketplace,2,452700,325944,0,Completed
+O00274,C0301,2025-04-07,South,Electronics,Paid Search,2,274800,197856,5,Completed
+O00820,C0271,2025-01-08,South,Electronics,Marketplace,2,481800,346896,5,Completed
+O00316,C0154,2025-02-04,North,Fitness,Marketplace,1,191300,114780,0,Completed
+O00042,C0350,2025-04-18,South,Electronics,Marketplace,1,391500,281880,5,Completed
+O01031,C0234,2025-11-27,East,Electronics,Marketplace,3,362900,261288,10,Completed
+O00458,C0281,2025-01-21,West,Accessories,Organic,4,53600,22512,5,Completed
+O00951,C0203,2025-04-30,East,Fitness,Marketplace,1,205300,123180,20,Returned
+O00120,C0328,2025-06-03,West,Accessories,Marketplace,3,75400,31668,10,Completed
+O01113,C0061,2025-12-04,South,Electronics,Marketplace,2,329900,237528,0,Completed
+O00186,C0003,2025-11-12,North,Fitness,Organic,3,217800,130680,0,Completed
+O00573,C0196,2025-02-10,East,Fitness,Paid Search,2,217500,130500,0,Completed
+O00583,C0227,2025-02-15,East,Home,Paid Search,4,180300,102771,5,Completed
+O00074,C0332,2025-09-17,East,Accessories,Organic,4,48900,20538,10,Completed
+O00089,C0317,2025-11-02,South,Fitness,Marketplace,4,250100,150060,10,Returned
+O00354,C0038,2025-08-30,North,Home,Marketplace,1,176000,100320,0,Completed
+O00862,C0244,2025-08-05,South,Accessories,Paid Search,2,73300,30786,5,Completed
+O00341,C0001,2025-08-22,West,Home,Organic,2,143000,81510,20,Completed
+O00032,C0062,2025-07-26,South,Electronics,Marketplace,1,341300,245736,15,Completed
+O00256,C0077,2025-10-02,South,Home,Paid Search,4,156500,89205,0,Completed
+O00722,C0271,2025-04-03,North,Home,Paid Search,1,147500,84075,0,Completed
+O00568,C0196,2025-08-10,South,Home,Organic,2,154700,88179,10,Completed
+O00930,C0032,2025-08-11,West,Fitness,Organic,2,159600,95760,15,Completed
+O00278,C0009,2025-03-16,East,Home,Marketplace,4,173800,99066,5,Completed
+O00687,C0024,2025-08-28,North,Electronics,Marketplace,3,381500,274680,0,Completed
+O00173,C0337,2025-05-10,South,Fitness,Paid Search,1,184100,110460,15,Completed
+O00601,C0331,2025-07-02,South,Electronics,Marketplace,1,269400,193968,0,Completed
+O00369,C0126,2025-10-07,South,Fitness,Organic,4,166000,99600,0,Completed
+O00101,C0166,2025-05-10,North,Electronics,Paid Search,1,373800,269136,20,Returned
+O01103,C0248,2025-12-23,East,Home,Organic,2,143100,81567,0,Completed
+O00607,C0098,2025-07-18,West,Electronics,Marketplace,2,465700,335304,15,Completed
+O00727,C0327,2025-09-30,East,Electronics,Paid Search,3,284800,205056,5,Completed
+O00045,C0103,2025-04-24,West,Electronics,Paid Search,3,437700,315144,0,Completed
+O00342,C0185,2025-12-02,East,Accessories,Organic,3,50100,21042,20,Returned
+O00262,C0061,2025-06-28,South,Home,Marketplace,4,164800,93936,15,Completed
+O01038,C0072,2025-08-13,West,Home,Paid Search,2,170900,97413,0,Completed
+O00382,C0133,2025-10-28,North,Electronics,Organic,1,483500,348120,0,Returned
+O00108,C0145,2025-01-02,East,Accessories,Marketplace,4,87400,36708,0,Completed
+O00102,C0097,2025-01-28,East,Fitness,Marketplace,4,210600,126360,20,Completed
+O00673,C0313,2025-04-03,South,Fitness,Marketplace,3,226800,136080,0,Completed
+O00488,C0288,2025-11-28,West,Home,Organic,3,173900,99123,20,Completed
+O00050,C0340,2025-06-10,North,Accessories,Marketplace,3,77300,32466,15,Completed
+O00456,C0071,2025-11-07,West,Accessories,Organic,1,77200,32424,5,Completed
+O00683,C0111,2025-06-04,East,Accessories,Organic,1,68500,28770,5,Completed
+O00093,C0233,2025-05-25,North,Accessories,Marketplace,2,81500,34230,5,Completed
+O00412,C0196,2025-07-09,East,Fitness,Organic,4,163800,98280,0,Completed
+O01104,C0005,2025-11-30,East,Home,Marketplace,1,173100,98667,20,Completed
+O00280,C0087,2025-08-24,East,Fitness,Organic,2,226400,135840,20,Completed
+O01112,C0011,2025-12-25,West,Home,Marketplace,4,139400,79458,0,Completed
+O00800,C0034,2025-06-21,West,Fitness,Organic,1,233500,140100,10,Completed
+O00836,C0085,2025-12-28,West,Accessories,Paid Search,2,90600,38052,5,Completed
+O00837,C0346,2025-10-19,West,Fitness,Marketplace,4,148400,89040,10,Completed
+O00037,C0055,2025-03-01,South,Home,Paid Search,3,124900,71193,15,Completed
+O00450,C0269,2025-11-02,East,Fitness,Paid Search,2,232500,139500,5,Cancelled
+O00735,C0171,2025-07-18,North,Electronics,Paid Search,3,401700,289224,0,Completed
+O00541,C0217,2025-10-02,East,Accessories,Marketplace,3,58700,24654,20,Completed
+O00898,C0189,2025-02-19,South,Accessories,Paid Search,4,79400,33348,10,Completed
+O01039,C0064,2025-05-31,West,Electronics,Organic,1,317500,228600,20,Completed
+O01033,C0023,2025-12-24,South,Electronics,Organic,3,406100,292392,20,Completed
+O00372,C0267,2025-04-29,West,Electronics,Marketplace,3,262900,189288,10,Cancelled
+O00498,C0198,2025-02-28,East,Accessories,Marketplace,3,64900,27258,0,Returned
+O00533,C0262,2025-12-04,East,Home,Organic,3,161700,92169,10,Completed
+O00070,C0319,2025-01-11,South,Home,Organic,2,183800,104766,10,Completed
+O00241,C0301,2025-11-12,South,Home,Organic,1,109000,62130,20,Returned
+O00971,C0344,2025-01-16,West,Electronics,Marketplace,1,465600,335232,5,Cancelled
+O00871,C0211,2025-11-01,East,Home,Paid Search,4,184600,105222,20,Completed
+O00881,C0311,2025-07-01,North,Home,Organic,3,146100,83277,15,Completed
+O00227,C0202,2025-02-19,East,Electronics,Paid Search,3,297700,214344,0,Completed
+O00459,C0294,2025-02-26,West,Electronics,Organic,1,281400,202608,15,Completed
+O00559,C0104,2025-04-28,South,Accessories,Marketplace,3,55900,23478,0,Completed
+O00378,C0309,2025-12-27,North,Accessories,Organic,3,87700,36834,0,Completed
+O00345,C0176,2025-12-23,North,Electronics,Paid Search,2,248300,178776,10,Completed
+O00389,C0030,2025-05-24,West,Home,Marketplace,3,100900,57513,15,Cancelled
+O00913,C0254,2025-08-01,East,Electronics,Organic,4,421800,303696,10,Completed
+O01154,C0157,2025-09-26,South,Fitness,Organic,3,209400,125640,10,Completed
+O01161,C0317,2025-10-07,East,Electronics,Paid Search,4,275600,198432,0,Completed
+O00866,C0083,2025-04-18,West,Home,Marketplace,3,128300,73131,20,Completed
+O00619,C0114,2025-06-03,South,Accessories,Paid Search,1,45700,19194,20,Completed
+O01098,C0150,2025-09-11,West,Fitness,Organic,3,170100,102060,0,Completed
+O01194,C0031,2025-02-26,East,Fitness,Paid Search,2,153300,91980,5,Completed
+O00921,C0221,2025-06-22,North,Electronics,Marketplace,2,271000,195120,0,Completed
+O00840,C0050,2025-07-14,West,Electronics,Paid Search,3,384700,276984,10,Completed
+O00513,C0231,2025-09-06,East,Home,Marketplace,3,130400,74328,20,Completed
+O01085,C0042,2025-11-10,East,Fitness,Paid Search,4,207900,124740,20,Completed
+O01106,C0061,2025-01-27,East,Home,Marketplace,4,194600,110922,0,Completed
+O00790,C0076,2025-06-26,East,Electronics,Paid Search,2,374800,269856,15,Completed
+O01168,C0024,2025-04-25,South,Electronics,Paid Search,1,315000,226800,20,Completed
+O00206,C0228,2025-03-30,North,Electronics,Marketplace,3,430100,309672,20,Completed
+O00333,C0273,2025-06-29,East,Electronics,Marketplace,2,478500,344520,5,Cancelled
+O00307,C0093,2025-10-07,North,Home,Marketplace,4,158500,90345,20,Completed
+O00454,C0060,2025-12-20,West,Electronics,Paid Search,4,264700,190584,0,Completed
+O00712,C0116,2025-07-01,South,Fitness,Paid Search,1,204700,122820,15,Completed
+O00521,C0092,2025-03-23,South,Home,Marketplace,4,143500,81795,5,Completed
+O00194,C0162,2025-01-22,East,Electronics,Marketplace,4,326700,235224,15,Completed
+O01040,C0184,2025-08-14,South,Accessories,Organic,1,53200,22344,20,Completed
+O00909,C0058,2025-04-08,North,Home,Marketplace,2,99300,56601,0,Completed
+O00523,C0233,2025-08-29,North,Accessories,Organic,3,65200,27384,0,Completed
+O00672,C0295,2025-09-27,East,Accessories,Organic,4,58600,24612,15,Completed
+O01186,C0348,2025-04-03,West,Accessories,Organic,3,76100,31962,15,Completed
+O00572,C0311,2025-12-14,South,Electronics,Marketplace,2,388800,279936,5,Completed
+O00985,C0161,2025-07-13,North,Electronics,Organic,1,258600,186192,10,Completed
+O00692,C0197,2025-02-24,North,Fitness,Organic,4,136300,81780,10,Completed
+O00526,C0310,2025-09-04,North,Accessories,Marketplace,2,70300,29526,10,Completed
+O00210,C0210,2025-07-30,North,Fitness,Organic,3,233600,140160,20,Completed
+O00563,C0202,2025-06-27,South,Electronics,Paid Search,1,450800,324576,20,Completed
+O00987,C0211,2025-11-13,South,Fitness,Marketplace,1,145600,87360,10,Completed
+O00659,C0047,2025-08-21,East,Home,Paid Search,2,188200,107274,20,Completed
+O01016,C0207,2025-06-27,West,Accessories,Marketplace,1,87500,36750,10,Completed
+O01129,C0190,2025-11-24,South,Accessories,Marketplace,4,48100,20202,20,Completed
+O00566,C0108,2025-08-06,West,Home,Marketplace,3,148900,84873,5,Completed
+O00001,C0126,2025-05-21,,Electronics,Organic,1,255200,183744,20,Completed
+O01055,C0118,2025-01-13,East,Fitness,Paid Search,2,185000,111000,0,Completed
+O00748,C0024,2025-11-13,South,Electronics,Marketplace,2,438000,315360,0,Completed
+O00249,C0168,2025-09-21,North,Fitness,Paid Search,1,213500,128100,0,Cancelled
+O00376,C0085,2025-02-24,West,Electronics,Paid Search,3,308600,222192,10,Completed
+O00677,C0015,2025-11-12,South,Fitness,Organic,3,242500,145500,5,Returned
+O01015,C0310,2025-12-28,South,Accessories,Marketplace,3,55100,23142,0,Completed
+O00561,C0162,2025-11-14,West,Fitness,Marketplace,3,202000,121200,10,Completed
+O00590,C0012,2025-10-01,South,Home,Organic,3,102900,58653,5,Completed
+O00174,C0340,2025-12-02,West,Accessories,Organic,1,61200,25704,5,Completed
+O00312,C0055,2025-08-09,North,Fitness,Organic,3,193900,116340,0,Completed
+O00933,C0208,2025-11-29,South,Fitness,Paid Search,1,196700,118020,0,Completed
+O00340,C0024,2025-01-25,North,Accessories,Marketplace,4,80300,33726,0,Completed
+O00792,C0152,2025-12-28,West,Accessories,Paid Search,2,78500,32970,15,Completed
+O00874,C0087,2025-12-26,North,Home,Paid Search,4,124700,71079,15,Completed
+O00589,C0234,2025-11-23,West,Accessories,Paid Search,4,51000,21420,0,Completed
+O00982,C0321,2025-11-17,North,Accessories,Organic,4,48600,20412,10,Completed
+O00756,C0322,2025-02-15,East,Fitness,Paid Search,4,251300,150780,0,Completed
+O00911,C0086,2025-03-01,South,Fitness,Marketplace,4,130400,78240,10,Completed
+O00073,C0155,2025-12-23,North,Home,Marketplace,1,108300,61731,5,Completed
+O00234,C0212,2025-03-19,South,Accessories,Paid Search,4,66800,28056,20,Completed
+O00545,C0326,2025-07-19,North,Electronics,Organic,2,310800,223776,10,Returned
+O01099,C0027,2025-04-26,South,Home,Paid Search,4,184700,105279,5,Cancelled
+O00631,C0305,2025-06-26,North,Home,Paid Search,2,130700,74499,5,Completed
+O01049,C0199,2025-12-23,South,Accessories,Paid Search,2,77700,32634,20,Completed
+O01131,C0045,2025-11-22,East,Home,Paid Search,3,129100,73587,0,Completed
+O00284,C0272,2025-01-09,East,Fitness,Marketplace,3,128400,77040,0,Completed
+O00298,C0285,2025-10-13,West,Fitness,Organic,1,217900,130740,0,Completed
+O00640,C0272,2025-05-07,East,Electronics,Paid Search,4,261200,188064,10,Completed
+O00483,C0320,2025-04-18,East,Home,Marketplace,3,118400,67488,20,Completed
+O00577,C0339,2025-05-01,East,Home,Marketplace,1,172400,98268,0,Completed
+O00625,C0290,2025-10-04,South,Electronics,Paid Search,2,375700,270504,0,Completed
+O01139,C0330,2025-06-06,North,Fitness,Paid Search,4,170500,102300,0,Completed
+O00002,C0017,2025-08-05,,Electronics,Organic,2,486800,350496,0,Completed
+O00628,C0223,2025-09-14,South,Electronics,Organic,4,408200,293904,15,Completed
+O00703,C0298,2025-03-13,North,Electronics,Organic,2,334100,240552,10,Completed
+O00831,C0069,2025-11-18,North,Fitness,Organic,1,173200,103920,0,Completed
+O00105,C0237,2025-02-28,North,Home,Marketplace,2,184000,104880,10,Returned
+O00478,C0056,2025-06-23,West,Home,Organic,1,171200,97584,10,Completed
+O00732,C0327,2025-11-03,North,Home,Marketplace,1,195200,111264,0,Completed
+O00398,C0151,2025-06-07,South,Home,Organic,1,136600,77862,20,Returned
+O00138,C0129,2025-10-04,South,Home,Organic,1,111200,63384,0,Completed
+O00304,C0221,2025-06-21,South,Accessories,Paid Search,3,67900,28518,15,Returned
+O00433,C0179,2025-07-12,West,Accessories,Paid Search,2,67000,28140,10,Completed
+O00604,C0096,2025-10-18,East,Fitness,Paid Search,4,164800,98880,5,Returned
+O00810,C0186,2025-12-17,North,Accessories,Marketplace,3,59200,24864,0,Completed
+O00208,C0122,2025-03-13,West,Electronics,Organic,3,327300,235656,15,Completed
+O01162,C0099,2025-03-07,West,Home,Marketplace,3,102300,58311,15,Cancelled
+O01178,C0197,2025-07-13,North,Electronics,Organic,1,285800,205776,20,Returned
+O00052,C0155,2025-10-19,West,Home,Marketplace,1,160900,91713,5,Completed
+O00273,C0048,2025-07-09,South,Electronics,Organic,3,429200,309024,10,Completed
+O00786,C0088,2025-06-06,East,Home,Organic,4,189800,108186,5,Cancelled
+O00865,C0199,2025-08-15,North,Home,Paid Search,3,185700,105849,5,Completed
+O00347,C0074,2025-12-13,North,Home,Marketplace,1,163500,93195,15,Completed
+O00295,C0349,2025-04-06,West,Fitness,Organic,3,214400,128640,0,Completed
+O00527,C0144,2025-11-26,South,Electronics,Organic,2,455700,328104,0,Completed
+O01056,C0114,2025-12-18,West,Home,Marketplace,3,179900,102543,0,Completed
+O00059,C0314,2025-08-15,West,Accessories,Marketplace,4,84000,35280,0,Completed
+O01116,C0024,2025-06-03,East,Electronics,Marketplace,4,346700,249624,0,Completed
+O00807,C0237,2025-06-13,South,Electronics,Paid Search,2,304800,219456,0,Completed
+O00720,C0316,2025-03-09,East,Accessories,Paid Search,3,58300,24486,0,Completed
+O00742,C0175,2025-10-01,North,Electronics,Paid Search,3,394600,284112,20,Completed
+O01010,C0152,2025-02-13,West,Electronics,Marketplace,3,300000,216000,0,Completed
+O01014,C0103,2025-10-07,East,Accessories,Organic,3,47300,19866,5,Completed
+O00979,C0349,2025-03-04,West,Fitness,Paid Search,3,182100,109260,15,Completed
+O00656,C0237,2025-05-27,South,Accessories,Paid Search,3,85000,35700,15,Returned
+O00429,C0301,2025-08-31,East,Fitness,Paid Search,2,162300,97380,5,Completed
+O01148,C0257,2025-06-26,North,Home,Marketplace,2,113800,64866,0,Completed
+O00713,C0138,2025-09-14,West,Home,Marketplace,3,170800,97356,0,Cancelled
+O00091,C0109,2025-11-17,East,Electronics,Marketplace,1,330100,237672,0,Completed
+O01142,C0250,2025-03-05,North,Home,Organic,3,139900,79743,0,Completed
+O00617,C0289,2025-05-04,South,Accessories,Paid Search,3,76500,32130,5,Cancelled
+O00151,C0004,2025-06-29,South,Accessories,Organic,4,62700,26334,0,Completed
+O00904,C0237,2025-12-05,South,Electronics,Organic,4,291600,209952,0,Completed
+O00905,C0233,2025-10-28,West,Accessories,Marketplace,3,61400,25788,5,Cancelled
+O01005,C0028,2025-05-07,East,Home,Organic,4,131400,74898,0,Completed
+O00723,C0212,2025-09-11,West,Home,Organic,4,183600,104652,20,Completed
+O00542,C0286,2025-10-10,West,Home,Organic,3,140200,79914,15,Completed
+O00190,C0035,2025-07-04,North,Electronics,Paid Search,4,459400,330768,0,Completed
+O01096,C0152,2025-03-16,South,Fitness,Paid Search,4,190700,114420,0,Completed
+O00769,C0168,2025-05-07,West,Fitness,Marketplace,2,176500,105900,15,Returned
+O00028,C0249,2025-07-28,West,Home, paid search ,4,114900,65493,0,Completed
+O00988,C0334,2025-06-23,North,Fitness,Paid Search,3,146700,88020,15,Completed
+O00670,C0270,2025-06-18,West,Electronics,Marketplace,2,357400,257328,20,Completed
+O00781,C0045,2025-08-23,North,Electronics,Paid Search,2,322100,231912,5,Cancelled
+O00258,C0345,2025-08-25,East,Electronics,Marketplace,1,473800,341136,10,Completed
+O01089,C0015,2025-08-11,South,Electronics,Paid Search,4,288200,207504,5,Completed
+O00078,C0182,2025-04-19,East,Home,Paid Search,3,147800,84246,15,Completed
+O00814,C0156,2025-12-30,North,Accessories,Marketplace,1,54200,22764,0,Completed
+O01030,C0292,2025-06-18,West,Home,Paid Search,4,151700,86469,15,Completed
+O00857,C0161,2025-02-12,East,Electronics,Organic,4,267600,192672,5,Completed
+O00044,C0343,2025-07-30,South,Accessories,Paid Search,2,85400,35868,20,Completed
+O00875,C0291,2025-03-29,North,Electronics,Organic,4,395700,284904,10,Completed
+O00061,C0121,2025-05-27,East,Fitness,Paid Search,3,141800,85080,15,Completed
+O00522,C0136,2025-02-02,East,Fitness,Organic,1,173400,104040,20,Completed
+O00699,C0281,2025-05-05,South,Home,Paid Search,4,161400,91998,0,Completed
+O01044,C0023,2025-03-27,West,Electronics,Marketplace,1,313700,225864,5,Completed
+O00272,C0069,2025-09-29,West,Fitness,Organic,3,240100,144060,0,Completed
+O00833,C0239,2025-09-10,South,Electronics,Paid Search,4,457900,329688,10,Completed
+O00244,C0331,2025-05-27,North,Accessories,Organic,2,61800,25956,15,Completed
+O00486,C0137,2025-04-13,South,Electronics,Paid Search,3,268100,193032,0,Completed
+O00137,C0120,2025-04-21,East,Home,Organic,1,157900,90003,5,Completed
+O01183,C0219,2025-04-27,West,Home,Organic,3,100300,57171,20,Completed
+O00859,C0122,2025-02-16,North,Accessories,Paid Search,3,70800,29736,15,Completed
+O00009,C0350,2025-05-17,,Home,Marketplace,2,166500,94905,15,Completed
+O00787,C0146,2025-06-30,West,Electronics,Organic,2,305700,220104,20,Completed
+O00824,C0253,2025-06-17,North,Electronics,Paid Search,3,278600,200592,10,Completed
+O00974,C0120,2025-04-24,West,Accessories,Paid Search,1,86700,36414,5,Completed
+O00753,C0009,2025-03-22,West,Electronics,Organic,1,399000,287280,0,Completed
+O00495,C0259,2025-02-04,South,Home,Paid Search,4,151200,86184,0,Completed
+O00962,C0301,2025-10-11,North,Electronics,Organic,2,355200,255744,5,Completed
+O00404,C0038,2025-08-20,North,Home,Paid Search,1,114500,65265,5,Completed
+O01145,C0069,2025-01-21,West,Home,Paid Search,3,127000,72390,0,Completed
+O01138,C0248,2025-06-03,East,Electronics,Paid Search,2,363800,261936,0,Completed
+O00658,C0166,2025-07-31,West,Home,Organic,2,138100,78717,10,Completed
+O00704,C0101,2025-08-17,South,Fitness,Marketplace,3,244300,146580,5,Completed
+O00817,C0130,2025-03-02,North,Electronics,Organic,3,437100,314712,20,Completed
+O00143,C0325,2025-11-16,East,Home,Paid Search,3,126000,71820,10,Completed
+O00036,C0271,2025-12-01,North,Accessories,Marketplace,3,76700,32214,20,Completed
+O01017,C0117,2025-07-23,South,Home,Marketplace,2,186500,106305,10,Completed
+O00620,C0236,2025-01-20,East,Home,Organic,2,107500,61275,5,Completed
+O00682,C0017,2025-06-11,East,Accessories,Paid Search,1,81500,34230,10,Returned
+O00263,C0012,2025-01-02,East,Home,Paid Search,4,183300,104481,15,Completed
+O00318,C0323,2025-07-27,South,Fitness,Organic,4,173400,104040,10,Completed
+O00232,C0136,2025-08-31,South,Electronics,Marketplace,1,489400,352368,15,Completed
+O00926,C0213,2025-08-13,North,Electronics,Organic,4,327600,235872,5,Completed
+O00187,C0122,2025-05-28,East,Fitness,Organic,1,148700,89220,0,Completed
+O00113,C0241,2025-02-08,East,Fitness,Paid Search,4,157600,94560,20,Completed
+O01169,C0027,2025-05-19,South,Accessories,Organic,1,52200,21924,0,Completed
+O00055,C0116,2025-06-08,South,Home,Organic,1,166700,95019,0,Completed
+O00998,C0038,2025-01-06,East,Electronics,Organic,1,393600,283392,0,Completed
+O01114,C0066,2025-01-21,South,Accessories,Marketplace,2,51600,21672,0,Completed
+O01105,C0348,2025-08-07,South,Home,Organic,1,136400,77748,5,Cancelled
+O00497,C0178,2025-12-09,West,Electronics,Organic,2,291900,210168,0,Completed
+O00363,C0294,2025-02-22,North,Home,Organic,1,124000,70680,0,Completed
+O01185,C0044,2025-07-04,North,Accessories,Marketplace,2,51400,21588,0,Completed
+O00504,C0009,2025-06-11,West,Fitness,Marketplace,1,214600,128760,15,Completed
+O00264,C0178,2025-08-24,South,Home,Paid Search,2,123200,70224,20,Completed
+O00514,C0220,2025-06-11,South,Accessories,Organic,3,86700,36414,0,Completed
+O00303,C0156,2025-03-11,North,Fitness,Paid Search,3,147900,88740,15,Completed
+O00832,C0310,2025-07-15,East,Electronics,Organic,3,318300,229176,15,Completed
+O00776,C0264,2025-01-29,East,Accessories,Organic,1,83000,34860,10,Completed
+O00480,C0089,2025-10-24,South,Home,Organic,4,168700,96159,20,Completed
+O00250,C0004,2025-05-08,East,Fitness,Paid Search,2,192200,115320,10,Completed
+O00097,C0129,2025-11-06,North,Fitness,Organic,2,192000,115200,20,Completed
+O00894,C0067,2025-10-19,South,Fitness,Organic,3,192500,115500,5,Completed
+O00240,C0110,2025-09-03,South,Fitness,Marketplace,3,178500,107100,15,Completed
+O00609,C0099,2025-09-06,North,Home,Organic,4,108800,62016,20,Completed
+O01002,C0157,2025-04-18,West,Electronics,Organic,3,383600,276192,5,Completed
+O00007,C0036,2025-04-09,,Accessories,Marketplace,2,74900,31458,5,Cancelled
+O00109,C0283,2025-06-20,West,Fitness,Paid Search,3,196600,117960,0,Cancelled
+O00580,C0065,2025-11-17,South,Accessories,Marketplace,2,68000,28560,0,Completed
+O01083,C0317,2025-08-20,West,Home,Marketplace,4,135600,77292,20,Completed
+O00452,C0302,2025-01-12,South,Home,Organic,3,119500,68115,20,Completed
+O00040,C0283,2025-08-15,West,Accessories,Marketplace,1,53600,22512,0,Completed
+O00657,C0232,2025-11-27,North,Home,Marketplace,1,145300,82821,0,Completed
+O00551,C0282,2025-02-16,East,Electronics,Marketplace,3,273100,196632,5,Cancelled
+O00101,C0166,2025-05-10,North,Electronics,Paid Search,1,373800,269136,20,Returned
+O00937,C0334,2025-01-25,North,Accessories,Paid Search,3,51700,21714,15,Completed
+O01193,C0121,2025-02-14,East,Home,Organic,2,169800,96786,0,Completed
+O00648,C0055,2025-04-07,South,Accessories,Organic,1,53100,22302,15,Completed
+O00286,C0041,2025-07-23,East,Accessories,Paid Search,4,59000,24780,15,Completed
+O00861,C0302,2025-05-11,North,Fitness,Paid Search,3,209600,125760,20,Returned
+O00043,C0084,2025-05-02,South,Fitness,Paid Search,1,157600,94560,0,Completed
+O00365,C0215,2025-12-02,South,Electronics,Paid Search,2,471400,339408,10,Returned
+O00973,C0114,2025-01-05,North,Home,Paid Search,3,143400,81738,0,Completed
+O01196,C0218,2025-01-14,East,Home,Organic,1,136500,77805,20,Completed
+O00451,C0085,2025-04-07,West,Fitness,Organic,2,199500,119700,0,Completed
+O01066,C0084,2025-10-17,South,Electronics,Paid Search,3,402600,289872,20,Completed
+O00474,C0115,2025-01-28,West,Accessories,Paid Search,4,64000,26880,20,Completed
+O00773,C0236,2025-12-27,North,Accessories,Paid Search,4,53600,22512,0,Returned
+O00375,C0232,2025-06-12,East,Fitness,Organic,1,192800,115680,0,Completed
+O00396,C0173,2025-02-21,East,Fitness,Paid Search,2,246000,147600,0,Completed
+O00668,C0146,2025-12-11,South,Home,Paid Search,3,114400,65208,0,Completed
+O00144,C0059,2025-12-26,South,Fitness,Paid Search,4,146300,87780,0,Completed
+O00251,C0294,2025-10-26,North,Accessories,Paid Search,3,60800,25536,20,Completed
+O00339,C0166,2025-05-18,East,Home,Paid Search,2,148500,84645,15,Completed
+O00245,C0091,2025-08-02,North,Electronics,Paid Search,4,316700,228024,0,Returned
+O00296,C0195,2025-03-20,South,Electronics,Marketplace,4,354700,255384,5,Completed
+O00124,C0322,2025-02-19,North,Home,Paid Search,4,162200,92454,0,Completed
+O00896,C0107,2025-01-11,South,Fitness,Paid Search,4,144200,86520,5,Completed
+O00268,C0074,2025-06-04,South,Accessories,Paid Search,3,57500,24150,5,Completed
+O00492,C0143,2025-08-08,East,Fitness,Organic,2,134300,80580,15,Completed
+O00343,C0321,2025-07-22,East,Home,Marketplace,2,103200,58824,10,Completed
+O01153,C0219,2025-03-16,North,Accessories,Marketplace,2,55200,23184,0,Returned
+O00564,C0007,2025-01-05,South,Accessories,Paid Search,1,80600,33852,5,Completed
+O00212,C0079,2025-09-23,East,Electronics,Organic,2,295800,212976,5,Returned
+O00300,C0293,2025-05-05,South,Electronics,Marketplace,4,474100,341352,0,Completed
+O00510,C0114,2025-04-05,East,Home,Organic,1,114300,65151,0,Completed
+O00678,C0331,2025-01-19,South,Fitness,Paid Search,2,223100,133860,20,Completed
+O00164,C0336,2025-03-20,North,Home,Organic,4,159500,90915,10,Completed
+O00065,C0200,2025-01-15,East,Fitness,Marketplace,4,225400,135240,20,Completed
+O00062,C0079,2025-07-16,South,Home,Organic,4,121500,69255,10,Completed
+O00236,C0176,2025-09-30,East,Home,Marketplace,3,144900,82593,15,Completed
+O01152,C0323,2025-10-30,South,Home,Organic,1,117200,66804,0,Completed
+O00993,C0260,2025-05-02,North,Home,Paid Search,3,103700,59109,0,Cancelled
+O00618,C0018,2025-01-01,East,Fitness,Marketplace,1,207300,124380,15,Completed
+O00966,C0109,2025-11-20,East,Fitness,Organic,2,197900,118740,20,Completed
+O00139,C0009,2025-06-15,South,Home,Paid Search,1,158100,90117,0,Completed
+O00195,C0183,2025-05-27,North,Electronics,Marketplace,3,323200,232704,5,Completed
+O00468,C0128,2025-12-05,West,Electronics,Paid Search,4,422200,303984,0,Completed
+O01149,C0005,2025-11-02,West,Accessories,Paid Search,3,67300,28266,5,Completed
+O01063,C0193,2025-05-26,West,Accessories,Organic,3,68600,28812,0,Completed
+O00469,C0081,2025-11-26,West,Electronics,Paid Search,2,249700,179784,0,Completed
+O00968,C0176,2025-12-16,East,Accessories,Marketplace,4,90600,38052,5,Completed
+O00136,C0125,2025-06-20,South,Electronics,Marketplace,2,265700,191304,0,Completed
+O00039,C0217,2025-11-21,East,Electronics,Organic,1,282800,203616,5,Completed
+O00156,C0307,2025-07-22,North,Electronics,Organic,2,335300,241416,5,Returned
+O00484,C0327,2025-10-05,East,Home,Marketplace,1,149400,85158,5,Completed
+O00057,C0076,2025-05-05,North,Fitness,Organic,4,207800,124680,0,Completed
+O00680,C0170,2025-12-17,East,Home,Organic,2,157000,89490,5,Completed
+O01080,C0173,2025-08-31,West,Accessories,Paid Search,3,70200,29484,20,Returned
+O00453,C0131,2025-11-24,North,Electronics,Marketplace,1,398600,286992,20,Completed
+O01068,C0347,2025-12-28,North,Accessories,Marketplace,2,77700,32634,5,Completed
+O00736,C0202,2025-11-09,South,Fitness,Marketplace,4,167000,100200,0,Completed
+O00445,C0003,2025-01-30,West,Accessories,Paid Search,2,77800,32676,0,Completed
+O00653,C0208,2025-08-07,North,Fitness,Marketplace,4,176500,105900,20,Completed
+O00003,C0333,2025-04-12,,Electronics,Organic,4,474800,341856,15,Completed
+O00276,C0195,2025-05-25,West,Accessories,Marketplace,3,85100,35742,5,Completed
+O00986,C0347,2025-02-22,North,Fitness,Marketplace,1,139400,83640,5,Completed
+O00418,C0285,2025-07-18,West,Electronics,Marketplace,3,280600,202032,5,Completed
+O01197,C0016,2025-03-22,South,Fitness,Paid Search,2,247600,148560,0,Completed
+O00416,C0089,2025-08-18,South,Home,Organic,2,110200,62814,0,Completed
+O01073,C0087,2025-01-04,West,Fitness,Organic,1,189000,113400,0,Completed
+O00806,C0244,2025-11-18,North,Fitness,Paid Search,1,178800,107280,5,Completed
+O00879,C0241,2025-01-06,South,Fitness,Paid Search,4,143500,86100,20,Completed
+O00046,C0143,2025-06-18,North,Home,Paid Search,3,138700,79059,20,Completed
+O01065,C0197,2025-07-11,West,Fitness,Paid Search,1,206800,124080,10,Returned
+O00116,C0154,2025-03-27,North,Electronics,Organic,3,426700,307224,0,Completed
+O00902,C0283,2025-01-25,North,Accessories,Organic,1,74500,31290,15,Completed
+O00685,C0168,2025-06-08,South,Fitness,Organic,2,233200,139920,0,Completed
+O00353,C0068,2025-06-12,West,Electronics,Marketplace,4,392900,282888,5,Completed
+O01128,C0263,2025-12-18,South,Accessories,Marketplace,2,45800,19236,0,Completed
+O00166,C0156,2025-11-20,East,Fitness,Marketplace,1,216500,129900,5,Completed
+O00054,C0044,2025-12-04,East,Fitness,Marketplace,3,160700,96420,0,Completed
+O00749,C0234,2025-02-19,South,Electronics,Marketplace,1,370800,266976,0,Completed
+O00762,C0167,2025-02-26,South,Accessories,Organic,2,57100,23982,20,Completed
+O00805,C0142,2025-03-03,West,Home,Organic,3,100800,57456,15,Completed
+O00501,C0218,2025-12-17,North,Home,Organic,4,186400,106248,20,Completed
+O00104,C0082,2025-12-30,East,Electronics,Marketplace,1,343000,246960,15,Completed
+O01067,C0030,2025-12-23,West,Fitness,Paid Search,2,201400,120840,0,Completed
+O00848,C0178,2025-04-18,North,Fitness,Marketplace,3,213400,128040,15,Completed
+O01061,C0313,2025-09-16,West,Fitness,Organic,4,212500,127500,0,Completed
+O01020,C0182,2025-12-04,East,Electronics,Organic,4,449700,323784,10,Completed
+O00876,C0105,2025-04-25,South,Fitness,Paid Search,3,150200,90120,20,Completed
+O00537,C0272,2025-01-23,West,Fitness,Organic,4,201800,121080,10,Completed
+O00063,C0106,2025-02-01,West,Fitness,Paid Search,1,211100,126660,15,Completed
+O00873,C0115,2025-10-20,North,Fitness,Organic,2,203200,121920,0,Cancelled
+O00329,C0058,2025-09-19,North,Fitness,Paid Search,3,238500,143100,15,Completed
+O00435,C0142,2025-06-22,East,Fitness,Paid Search,3,139000,83400,20,Completed
+O00936,C0259,2025-08-05,North,Accessories,Marketplace,1,82500,34650,5,Completed
+O00233,C0125,2025-12-15,North,Fitness,Marketplace,1,156200,93720,0,Completed
+O00624,C0309,2025-12-01,North,Electronics,Marketplace,4,337800,243216,0,Completed
+O00153,C0291,2025-06-16,North,Accessories,Organic,2,82300,34566,0,Completed
+O00543,C0177,2025-10-23,West,Accessories,Marketplace,2,61100,25662,20,Completed
+O00025,C0028,2025-08-28,North,Fitness, paid search ,4,210100,126060,20,Completed
+O00314,C0213,2025-06-01,North,Fitness,Organic,2,147400,88440,5,Completed
+O00253,C0114,2025-11-11,South,Accessories,Organic,4,64200,26964,0,Completed
+O00161,C0055,2025-08-12,South,Accessories,Paid Search,4,49900,20958,15,Completed
+O00397,C0163,2025-11-29,South,Fitness,Marketplace,3,225700,135420,0,Completed
+O00550,C0205,2025-05-22,East,Home,Marketplace,4,106700,60819,10,Completed
+O00797,C0076,2025-07-23,West,Electronics,Paid Search,4,392800,282816,5,Completed
+O00119,C0239,2025-01-05,East,Accessories,Marketplace,2,79500,33390,0,Completed
+O00614,C0213,2025-10-13,North,Home,Marketplace,3,155000,88350,20,Completed
+O00386,C0032,2025-09-03,North,Fitness,Paid Search,4,238700,143220,0,Completed
+O00997,C0170,2025-09-04,West,Home,Organic,4,122300,69711,0,Completed
+O00983,C0127,2025-05-09,North,Accessories,Paid Search,2,88400,37128,5,Completed
+O00309,C0079,2025-12-04,West,Home,Paid Search,1,123700,70509,10,Cancelled
+O00426,C0292,2025-09-26,North,Fitness,Organic,2,153700,92220,0,Completed
+O00098,C0021,2025-10-23,South,Electronics,Paid Search,4,355300,255816,5,Completed
+O00482,C0212,2025-03-12,East,Fitness,Marketplace,3,153300,91980,20,Completed
+O00072,C0160,2025-01-14,West,Electronics,Paid Search,2,482000,347040,0,Completed
+O01144,C0182,2025-03-13,West,Fitness,Organic,3,159100,95460,20,Completed
+O00346,C0053,2025-02-22,East,Fitness,Paid Search,3,144200,86520,0,Completed
+O00041,C0190,2025-01-19,South,Home,Paid Search,2,153700,87609,0,Completed
+O01075,C0102,2025-03-10,West,Home,Organic,1,169900,96843,10,Completed
+O00758,C0100,2025-01-28,North,Home,Organic,4,126200,71934,10,Completed
+O00135,C0142,2025-07-23,South,Accessories,Organic,4,48500,20370,0,Completed
+O00528,C0170,2025-08-01,North,Electronics,Paid Search,4,339300,244296,10,Completed
+O00473,C0317,2025-11-06,East,Electronics,Marketplace,2,282200,203184,20,Completed
+O00788,C0342,2025-12-29,South,Home,Organic,2,115800,66006,0,Completed
+O00019,C0036,2025-09-06,South,Electronics, paid search ,4,280000,201600,15,Completed
+O00850,C0322,2025-01-10,South,Home,Marketplace,4,188100,107217,0,Completed
+O00022,C0324,2025-02-06,North,Home, paid search ,1,98600,56202,0,Completed
+O00243,C0081,2025-10-09,West,Home,Marketplace,4,98400,56088,10,Completed
+O00597,C0327,2025-09-04,East,Electronics,Organic,3,348700,251064,0,Returned
+O00335,C0128,2025-03-09,South,Home,Marketplace,3,169700,96729,0,Completed
+O01045,C0278,2025-04-17,West,Home,Paid Search,1,161800,92226,0,Completed
+O00464,C0245,2025-07-17,West,Fitness,Marketplace,2,181600,108960,0,Completed
+O00808,C0149,2025-01-25,East,Fitness,Marketplace,1,198900,119340,15,Completed
+O00123,C0311,2025-04-28,East,Accessories,Organic,2,85100,35742,15,Completed
+O00548,C0337,2025-04-14,East,Fitness,Organic,1,128100,76860,15,Completed
+O00705,C0046,2025-06-26,North,Accessories,Marketplace,4,67600,28392,0,Completed
+O00048,C0224,2025-06-10,North,Fitness,Paid Search,2,196700,118020,5,Completed
+O00511,C0331,2025-08-25,North,Electronics,Paid Search,1,469800,338256,5,Completed
+O00506,C0145,2025-02-14,West,Accessories,Paid Search,4,76400,32088,20,Completed
+O00051,C0152,2025-07-26,South,Fitness,Organic,4,192800,115680,20,Returned
+O00202,C0291,2025-07-16,North,Accessories,Marketplace,2,63900,26838,20,Completed
+O00613,C0273,2025-04-29,West,Electronics,Organic,2,286400,206208,15,Completed
+O01023,C0056,2025-09-01,East,Fitness,Marketplace,4,164500,98700,20,Returned
+O00757,C0049,2025-09-29,East,Home,Marketplace,2,109900,62643,10,Completed
+O00446,C0067,2025-02-15,West,Home,Marketplace,4,148000,84360,10,Completed
+O00432,C0115,2025-01-05,East,Home,Marketplace,3,159400,90858,20,Cancelled
+O01136,C0188,2025-02-08,South,Home,Marketplace,3,115800,66006,0,Completed
+O00285,C0050,2025-02-24,South,Fitness,Organic,2,162700,97620,15,Completed
+O00855,C0287,2025-09-06,West,Accessories,Paid Search,1,69100,29022,0,Completed
+O00842,C0087,2025-06-22,North,Accessories,Marketplace,3,51200,21504,0,Completed
+O00540,C0210,2025-06-11,East,Home,Organic,2,168300,95931,10,Completed
+O00218,C0213,2025-08-14,West,Electronics,Paid Search,2,309700,222984,5,Completed
+O00815,C0158,2025-04-27,South,Home,Organic,2,168300,95931,0,Completed
+O00395,C0073,2025-12-27,North,Home,Marketplace,3,157900,90003,0,Completed
+O00068,C0143,2025-07-14,West,Accessories,Paid Search,1,62600,26292,10,Completed
+O00239,C0075,2025-06-26,East,Fitness,Organic,3,206800,124080,20,Completed
+O01126,C0179,2025-09-28,East,Fitness,Marketplace,3,145500,87300,15,Completed
+O00477,C0313,2025-05-11,South,Fitness,Organic,1,147900,88740,10,Completed
+O01008,C0019,2025-11-29,South,Fitness,Organic,2,245500,147300,10,Returned
+O00337,C0143,2025-09-21,East,Electronics,Paid Search,4,410000,295200,5,Completed
+O00734,C0219,2025-05-22,East,Electronics,Paid Search,2,430700,310104,0,Completed
+O00599,C0005,2025-05-05,North,Electronics,Marketplace,4,407100,293112,20,Completed
+O00010,C0139,2025-07-14,,Home,Marketplace,3,145200,82764,0,Completed
+O00694,C0234,2025-02-19,East,Electronics,Marketplace,4,436800,314496,10,Completed
+O00671,C0323,2025-10-20,North,Electronics,Paid Search,3,289700,208584,10,Completed
+O00938,C0298,2025-05-01,South,Fitness,Paid Search,3,195400,117240,5,Completed
+O01087,C0045,2025-09-12,East,Electronics,Marketplace,4,297300,214056,0,Returned
+O00381,C0032,2025-01-07,South,Home,Organic,2,110300,62871,10,Completed
+O00221,C0215,2025-11-12,South,Accessories,Organic,3,65000,27300,15,Completed
+O00075,C0079,2025-08-24,West,Accessories,Organic,3,77900,32718,15,Completed
+O01047,C0337,2025-02-03,East,Fitness,Marketplace,3,171000,102600,0,Completed
+O00718,C0134,2025-10-16,North,Accessories,Marketplace,4,82600,34692,15,Completed
+O01158,C0058,2025-06-05,North,Accessories,Marketplace,1,62500,26250,20,Completed
+O01078,C0245,2025-05-01,West,Electronics,Marketplace,1,484800,349056,0,Completed
+O00914,C0271,2025-02-01,North,Fitness,Paid Search,3,173400,104040,15,Completed
+O00667,C0017,2025-03-16,East,Accessories,Paid Search,1,47200,19824,0,Completed
+O00637,C0336,2025-08-27,North,Accessories,Organic,4,48100,20202,20,Completed
+O00635,C0133,2025-09-25,West,Home,Marketplace,2,153800,87666,20,Completed
+O00408,C0136,2025-10-04,East,Fitness,Paid Search,2,239400,143640,0,Completed
+O01190,C0181,2025-07-17,East,Home,Paid Search,4,116500,66405,10,Completed
+O00544,C0083,2025-12-25,North,Home,Organic,4,143600,81852,5,Completed
+O00301,C0075,2025-09-10,North,Accessories,Organic,4,59100,24822,5,Completed
+O00420,C0052,2025-10-16,East,Electronics,Marketplace,3,288200,207504,10,Completed
+O00260,C0017,2025-08-30,East,Electronics,Paid Search,2,273200,196704,0,Completed
+O00524,C0297,2025-05-15,South,Accessories,Paid Search,4,88100,37002,5,Completed
+O00035,C0036,2025-06-28,South,Accessories,Paid Search,3,52100,21882,0,Completed
+O00172,C0027,2025-11-03,East,Accessories,Organic,3,80100,33642,0,Completed
+O00907,C0007,2025-03-01,South,Electronics,Marketplace,4,406700,292824,10,Completed
+O00066,C0274,2025-11-15,North,Fitness,Paid Search,1,152100,91260,0,Completed
+O00858,C0121,2025-03-13,North,Electronics,Marketplace,1,407500,293400,15,Completed
+O00362,C0262,2025-08-22,East,Electronics,Organic,4,448200,322704,15,Completed
+O00663,C0093,2025-11-17,North,Fitness,Organic,2,185100,111060,0,Completed
+O00626,C0295,2025-11-01,North,Fitness,Organic,4,217200,130320,5,Completed
+O00901,C0077,2025-06-03,South,Electronics,Marketplace,3,440600,317232,0,Completed
+O00393,C0047,2025-01-20,North,Home,Organic,2,148100,84417,0,Completed
+O00111,C0334,2025-12-06,South,Fitness,Paid Search,1,205000,123000,0,Completed
+O00327,C0252,2025-12-17,West,Fitness,Marketplace,4,209700,125820,10,Completed
+O00279,C0292,2025-07-14,South,Accessories,Paid Search,3,57100,23982,5,Completed
+O01082,C0206,2025-08-22,South,Electronics,Organic,1,246200,177264,15,Completed
+O01054,C0143,2025-03-10,East,Fitness,Marketplace,1,193300,115980,15,Completed
+O00444,C0093,2025-06-11,North,Fitness,Paid Search,3,155300,93180,20,Cancelled
+O00500,C0276,2025-03-27,North,Electronics,Marketplace,1,284300,204696,0,Completed
+O00211,C0066,2025-06-26,South,Fitness,Organic,4,231900,139140,15,Returned
+O00170,C0259,2025-02-13,South,Accessories,Organic,2,81900,34398,20,Completed
+O00320,C0275,2025-02-22,South,Electronics,Paid Search,3,481400,346608,0,Completed
+O00602,C0178,2025-11-27,West,Accessories,Marketplace,2,73900,31038,0,Completed
+O00598,C0325,2025-05-01,West,Home,Paid Search,1,109400,62358,0,Completed
+O00698,C0333,2025-10-12,North,Electronics,Paid Search,4,378400,272448,10,Completed
+O00767,C0310,2025-06-01,South,Home,Marketplace,2,188600,107502,15,Cancelled
+O01084,C0185,2025-11-21,North,Accessories,Marketplace,3,46200,19404,20,Completed
+O00203,C0040,2025-08-16,South,Accessories,Marketplace,3,64400,27048,10,Completed
+O01052,C0220,2025-05-02,South,Electronics,Marketplace,1,371500,267480,0,Completed
+O00107,C0307,2025-04-08,South,Home,Organic,3,137100,78147,10,Completed
+O00662,C0092,2025-03-16,North,Home,Paid Search,3,114500,65265,5,Completed
+O00410,C0014,2025-02-19,South,Fitness,Organic,3,166800,100080,0,Completed
+O00707,C0303,2025-08-10,West,Electronics,Marketplace,3,341300,245736,20,Completed
+O00852,C0078,2025-05-04,East,Fitness,Paid Search,4,156200,93720,5,Returned
+O00508,C0285,2025-10-11,South,Accessories,Organic,1,45900,19278,0,Completed
+O00479,C0272,2025-01-03,North,Home,Marketplace,4,148900,84873,15,Completed
+O00302,C0129,2025-07-04,South,Fitness,Marketplace,4,141700,85020,15,Completed
+O01042,C0104,2025-07-13,South,Electronics,Paid Search,2,264900,190728,0,Completed
+O00891,C0127,2025-02-09,West,Home,Marketplace,1,140500,80085,5,Completed
+O00975,C0327,2025-04-11,West,Home,Organic,3,98600,56202,15,Completed
+O00205,C0110,2025-08-17,East,Accessories,Marketplace,4,81400,34188,0,Completed
+O01026,C0211,2025-06-17,West,Electronics,Organic,1,315300,227016,0,Completed
+O00992,C0159,2025-08-29,East,Home,Paid Search,3,112900,64353,0,Completed
+O00795,C0114,2025-09-27,East,Home,Organic,1,157600,89832,0,Completed
+O00750,C0219,2025-04-14,East,Home,Marketplace,4,104300,59451,5,Completed
+O00995,C0170,2025-12-21,East,Fitness,Marketplace,3,248800,149280,10,Completed
+O00226,C0148,2025-10-11,North,Home,Paid Search,4,135000,76950,15,Completed
+O00142,C0228,2025-12-31,North,Electronics,Organic,3,445800,320976,15,Completed
+O00336,C0296,2025-03-14,East,Fitness,Marketplace,4,226200,135720,10,Completed
+O01150,C0079,2025-11-13,South,Fitness,Organic,3,176700,106020,0,Returned
+O01187,C0139,2025-02-23,West,Accessories,Marketplace,3,90200,37884,5,Completed
+O00811,C0211,2025-09-06,East,Accessories,Organic,1,64400,27048,0,Completed
+O00374,C0067,2025-12-06,South,Electronics,Paid Search,3,423100,304632,5,Returned
+O00892,C0303,2025-07-11,North,Electronics,Paid Search,2,406400,292608,0,Completed
+O01163,C0061,2025-11-19,West,Accessories,Organic,4,68300,28686,10,Completed
+O01086,C0311,2025-05-31,South,Electronics,Marketplace,2,402600,289872,15,Returned
+O00531,C0327,2025-10-16,North,Fitness,Marketplace,3,248700,149220,0,Completed
+O01001,C0052,2025-05-15,North,Home,Marketplace,2,184200,104994,10,Completed
+O00711,C0310,2025-12-23,West,Fitness,Marketplace,2,219300,131580,10,Completed
+O01107,C0061,2025-01-18,South,Fitness,Paid Search,4,176100,105660,5,Completed
+O00621,C0154,2025-05-12,North,Home,Marketplace,4,121700,69369,15,Returned
+O00829,C0298,2025-05-23,East,Fitness,Marketplace,4,228200,136920,5,Completed
+O00125,C0168,2025-06-01,West,Home,Organic,2,107100,61047,0,Completed
+O00261,C0230,2025-07-15,West,Fitness,Paid Search,1,202600,121560,20,Cancelled
+O00535,C0050,2025-11-07,South,Fitness,Paid Search,1,156600,93960,15,Completed
+O00942,C0256,2025-10-27,West,Fitness,Paid Search,4,180000,108000,20,Cancelled
+O00006,C0064,2025-10-02,,Electronics,Organic,3,433100,311832,20,Completed
+O00897,C0252,2025-06-02,West,Home,Marketplace,3,110200,62814,20,Completed
+O00779,C0258,2025-05-17,West,Accessories,Paid Search,1,63400,26628,0,Completed
+O00629,C0288,2025-04-11,South,Fitness,Organic,1,243000,145800,5,Completed
+O00496,C0170,2025-06-19,East,Home,Paid Search,2,165800,94506,15,Completed
+O00356,C0316,2025-10-03,South,Electronics,Paid Search,1,464700,334584,5,Completed
+O00352,C0058,2025-07-17,South,Home,Paid Search,1,148500,84645,15,Returned
+O00121,C0055,2025-09-05,South,Home,Paid Search,3,137200,78204,15,Completed
+O01021,C0167,2025-06-03,North,Fitness,Marketplace,1,236100,141660,0,Completed
+O00622,C0089,2025-09-05,West,Electronics,Marketplace,1,377900,272088,15,Completed
+O00950,C0230,2025-12-08,South,Fitness,Marketplace,3,218100,130860,0,Completed
+O00581,C0244,2025-06-16,West,Accessories,Marketplace,3,89400,37548,15,Completed
+O01092,C0120,2025-08-12,South,Fitness,Paid Search,1,241000,144600,5,Completed
+O01132,C0085,2025-02-17,North,Electronics,Organic,3,343300,247176,15,Returned
+O00989,C0035,2025-11-01,South,Electronics,Marketplace,2,250000,180000,20,Completed
+O00689,C0077,2025-05-20,South,Fitness,Paid Search,1,150000,90000,0,Cancelled
+O00958,C0348,2025-07-28,South,Home,Organic,3,129300,73701,0,Completed
+O00912,C0104,2025-05-05,East,Fitness,Marketplace,4,245800,147480,0,Completed
+O00825,C0116,2025-08-16,West,Accessories,Paid Search,4,80500,33810,0,Completed
+O00112,C0226,2025-02-21,North,Accessories,Marketplace,4,89900,37758,0,Completed
+O00117,C0126,2025-03-16,West,Accessories,Marketplace,2,67400,28308,0,Completed
+O00964,C0285,2025-08-05,West,Home,Organic,1,152900,87153,10,Cancelled
+O01060,C0247,2025-05-20,North,Fitness,Paid Search,4,167200,100320,10,Completed
+O01125,C0064,2025-02-23,South,Home,Marketplace,3,136600,77862,15,Completed
+O00641,C0181,2025-12-17,East,Electronics,Marketplace,3,387000,278640,0,Cancelled
+O00499,C0229,2025-09-18,West,Accessories,Organic,3,71700,30114,20,Completed
+O00076,C0304,2025-08-12,East,Fitness,Paid Search,2,221200,132720,0,Completed
+O00872,C0168,2025-10-31,East,Home,Organic,1,168200,95874,10,Completed
+O01174,C0119,2025-08-17,West,Fitness,Paid Search,2,157800,94680,10,Completed
+O00503,C0295,2025-02-06,South,Accessories,Paid Search,4,73900,31038,10,Completed
+O00104,C0082,2025-12-30,East,Electronics,Marketplace,1,343000,246960,15,Completed
+O00771,C0254,2025-08-20,South,Fitness,Organic,1,146000,87600,20,Completed
+O00213,C0146,2025-09-23,North,Home,Paid Search,2,133300,75981,20,Cancelled
+O01013,C0151,2025-02-12,North,Electronics,Paid Search,2,392000,282240,0,Completed
+O00507,C0070,2025-04-23,West,Home,Marketplace,3,152500,86925,20,Completed
+O00943,C0066,2025-09-16,West,Home,Marketplace,4,112600,64182,0,Cancelled
+O00737,C0330,2025-11-11,North,Fitness,Paid Search,3,170700,102420,0,Completed
+O00185,C0071,2025-03-16,North,Electronics,Paid Search,4,382300,275256,20,Completed
+O01120,C0043,2025-08-22,East,Home,Marketplace,4,138800,79116,20,Completed
+O00290,C0039,2025-01-24,East,Fitness,Marketplace,1,181500,108900,0,Returned
+O00994,C0175,2025-02-05,South,Home,Marketplace,4,178300,101631,20,Completed
+O00110,C0120,2025-07-16,West,Home,Organic,3,156400,89148,20,Completed
+O00126,C0140,2025-09-14,South,Accessories,Paid Search,4,72500,30450,5,Completed
+O00611,C0032,2025-11-24,East,Electronics,Marketplace,4,436700,314424,5,Completed
+O00471,C0236,2025-02-10,West,Fitness,Marketplace,4,174100,104460,0,Completed
+O00114,C0274,2025-12-12,West,Accessories,Paid Search,4,89000,37380,15,Completed
+O00106,C0140,2025-12-28,West,Accessories,Paid Search,4,71400,29988,0,Completed
+O00594,C0007,2025-07-15,North,Accessories,Marketplace,2,87200,36624,10,Completed
+O00654,C0232,2025-02-25,West,Electronics,Organic,2,458200,329904,15,Completed
+O01004,C0220,2025-11-03,South,Accessories,Organic,2,61600,25872,15,Completed
+O00744,C0324,2025-02-13,West,Accessories,Marketplace,2,70300,29526,0,Completed
+O00148,C0217,2025-12-07,North,Accessories,Paid Search,3,90100,37842,5,Completed
+O00085,C0028,2025-01-24,East,Home,Marketplace,2,125900,71763,20,Returned
+O00282,C0071,2025-07-31,South,Electronics,Organic,2,247600,178272,0,Completed
+O01071,C0155,2025-12-21,West,Fitness,Marketplace,3,177700,106620,20,Completed
+O00113,C0241,2025-02-08,East,Fitness,Paid Search,4,157600,94560,20,Completed
+O01184,C0087,2025-09-09,North,Fitness,Organic,1,149000,89400,5,Completed
+O00388,C0258,2025-10-17,East,Fitness,Paid Search,3,196400,117840,0,Completed
+O00252,C0082,2025-06-07,West,Electronics,Marketplace,3,435600,313632,20,Completed
+O00961,C0209,2025-10-11,North,Accessories,Paid Search,1,69100,29022,10,Completed
+O00199,C0086,2025-08-07,West,Fitness,Paid Search,4,249400,149640,0,Completed
+O00969,C0236,2025-04-18,East,Accessories,Organic,2,62800,26376,20,Returned
+O00228,C0024,2025-01-21,North,Fitness,Organic,3,228400,137040,10,Completed
+O00669,C0195,2025-07-08,North,Accessories,Paid Search,1,61900,25998,5,Completed
+O00246,C0005,2025-01-20,East,Accessories,Marketplace,1,90200,37884,5,Completed
+O01051,C0328,2025-09-19,South,Fitness,Marketplace,1,204300,122580,0,Completed
+O01090,C0344,2025-09-01,North,Accessories,Marketplace,2,79400,33348,15,Completed
+O00747,C0297,2025-03-18,South,Fitness,Organic,1,235800,141480,20,Completed
+O00845,C0258,2025-09-12,East,Home,Organic,3,132300,75411,5,Cancelled
+O00465,C0214,2025-02-23,West,Electronics,Marketplace,4,310200,223344,0,Completed
+O01176,C0084,2025-06-08,South,Accessories,Paid Search,2,46400,19488,0,Completed
+O00026,C0098,2025-04-09,West,Electronics, paid search ,4,346800,249696,0,Completed
+O00392,C0289,2025-10-18,South,Electronics,Marketplace,2,389000,280080,10,Completed
+O00775,C0152,2025-01-17,West,Accessories,Paid Search,2,72500,30450,20,Completed
+O00081,C0340,2025-06-06,East,Fitness,Paid Search,3,175800,105480,10,Cancelled
+O00111,C0334,2025-12-06,South,Fitness,Paid Search,1,205000,123000,0,Completed
+O00725,C0273,2025-09-01,South,Fitness,Paid Search,4,187700,112620,10,Completed
+O01165,C0254,2025-07-23,North,Home,Organic,4,173700,99009,15,Completed
+O00029,C0233,2025-05-16,East,Electronics, paid search ,4,404900,291528,0,Completed
+O00157,C0149,2025-05-11,East,Home,Organic,1,176100,100377,10,Completed
+O00608,C0050,2025-02-26,North,Fitness,Organic,2,191900,115140,0,Returned
+O00644,C0294,2025-05-04,South,Home,Paid Search,3,140600,80142,15,Completed
+O00012,C0136,2025-03-15,,Fitness,Organic,3,219900,131940,20,Completed
+O00754,C0214,2025-05-26,West,Electronics,Marketplace,2,488100,351432,0,Completed
+O00864,C0197,2025-10-10,East,Home,Marketplace,3,123800,70566,20,Completed
+O01117,C0311,2025-06-30,South,Accessories,Marketplace,1,72100,30282,20,Completed
+O00096,C0277,2025-09-14,West,Fitness,Paid Search,1,181700,109020,15,Completed
+O00209,C0314,2025-03-08,North,Fitness,Organic,3,238900,143340,10,Cancelled
+O01097,C0018,2025-12-07,East,Home,Paid Search,1,174300,99351,5,Cancelled
+O01141,C0221,2025-02-21,West,Accessories,Organic,1,45800,19236,15,Completed
+O00856,C0143,2025-05-13,South,Home,Marketplace,1,100800,57456,20,Completed
+O00267,C0072,2025-01-29,East,Home,Organic,3,175100,99807,15,Completed
+O01123,C0057,2025-09-30,West,Accessories,Organic,3,51700,21714,20,Completed
+O00402,C0001,2025-02-25,North,Accessories,Paid Search,4,85600,35952,20,Completed
+O00887,C0134,2025-08-29,South,Home,Marketplace,4,101500,57855,10,Completed
+O00647,C0075,2025-06-12,North,Electronics,Paid Search,4,320400,230688,10,Completed
+O00122,C0203,2025-12-04,East,Accessories,Organic,1,46500,19530,15,Completed
+O00517,C0101,2025-10-03,East,Home,Marketplace,1,189100,107787,20,Completed
+O00130,C0288,2025-11-14,East,Fitness,Marketplace,2,131100,78660,20,Completed
+O00728,C0300,2025-12-02,West,Electronics,Paid Search,2,349500,251640,20,Completed
+O00841,C0332,2025-05-01,East,Home,Marketplace,1,123200,70224,20,Completed
+O00237,C0153,2025-10-13,South,Home,Paid Search,3,126400,72048,20,Completed
+O01101,C0145,2025-09-28,East,Fitness,Marketplace,2,140700,84420,20,Completed
+O00163,C0180,2025-06-28,South,Home,Organic,1,190600,108642,0,Completed
+O00530,C0021,2025-09-20,South,Home,Organic,2,162300,92511,5,Returned
+O00778,C0333,2025-02-28,West,Home,Marketplace,2,153100,87267,20,Completed
+O00413,C0138,2025-04-26,North,Fitness,Organic,1,179900,107940,0,Completed
+O00178,C0093,2025-03-25,South,Fitness,Marketplace,4,157500,94500,0,Completed
+O00746,C0174,2025-01-19,North,Fitness,Paid Search,1,129300,77580,10,Completed
+O01151,C0102,2025-08-08,West,Home,Marketplace,1,166100,94677,20,Completed
+O00652,C0034,2025-04-15,South,Home,Paid Search,4,175400,99978,20,Completed
+O00132,C0121,2025-02-19,South,Fitness,Paid Search,4,149700,89820,5,Completed
+O00440,C0287,2025-05-13,South,Home,Marketplace,3,173700,99009,20,Completed
+O00592,C0191,2025-09-13,West,Accessories,Marketplace,1,85600,35952,5,Completed
+O00053,C0336,2025-11-07,East,Fitness,Paid Search,4,244700,146820,10,Completed
+O00403,C0253,2025-07-31,West,Home,Paid Search,4,188400,107388,0,Completed
+O00660,C0231,2025-12-28,East,Electronics,Organic,4,291700,210024,20,Completed
+O00884,C0060,2025-05-14,East,Fitness,Organic,2,155000,93000,10,Returned
+O00198,C0165,2025-05-31,North,Home,Organic,3,153700,87609,20,Completed
+O00401,C0006,2025-08-17,East,Electronics,Organic,2,382500,275400,20,Completed
+O00570,C0084,2025-02-20,North,Electronics,Organic,3,408100,293832,10,Completed
+O00789,C0226,2025-03-06,East,Accessories,Paid Search,2,74800,31416,0,Completed
+O01011,C0173,2025-11-15,West,Fitness,Paid Search,4,230900,138540,10,Completed
+O00586,C0224,2025-10-15,West,Home,Organic,2,140000,79800,20,Completed
+O01166,C0140,2025-11-07,South,Fitness,Organic,1,208000,124800,0,Completed
+O00863,C0011,2025-06-07,North,Accessories,Marketplace,1,87400,36708,20,Returned
+O00326,C0249,2025-01-05,South,Electronics,Organic,4,392000,282240,15,Completed
+O00615,C0093,2025-03-27,West,Fitness,Marketplace,3,147300,88380,20,Completed
+O00760,C0027,2025-02-23,South,Fitness,Organic,1,134800,80880,10,Completed
+O00532,C0113,2025-03-29,West,Fitness,Marketplace,2,224600,134760,15,Completed
+O00799,C0218,2025-03-25,West,Fitness,Organic,1,185100,111060,0,Completed
+O00158,C0273,2025-07-14,South,Home,Marketplace,3,111100,63327,0,Completed
+O00027,C0227,2025-02-08,North,Home, paid search ,1,187400,106818,0,Returned
+O00016,C0233,2025-03-22,North,Accessories,Marketplace,-1,67600,28392,15,Completed
+O00105,C0237,2025-02-28,North,Home,Marketplace,2,184000,104880,10,Returned
+O00791,C0075,2025-09-13,West,Electronics,Paid Search,2,410700,295704,0,Cancelled
+O00005,C0195,2025-02-17,,Accessories,Paid Search,3,50600,21252,15,Completed
+O00248,C0008,2025-04-06,East,Fitness,Paid Search,2,178600,107160,0,Completed
+O00690,C0180,2025-10-05,East,Electronics,Paid Search,2,329600,237312,20,Completed
+O00425,C0192,2025-09-22,North,Fitness,Marketplace,2,225200,135120,0,Completed
+O00880,C0132,2025-11-02,North,Fitness,Organic,1,212600,127560,0,Completed
+O00271,C0154,2025-04-26,South,Fitness,Paid Search,1,175300,105180,15,Completed
+O00675,C0109,2025-11-23,North,Accessories,Marketplace,2,74000,31080,20,Completed
+O00275,C0061,2025-04-08,West,Electronics,Organic,2,331700,238824,10,Returned
+O00954,C0273,2025-12-04,South,Electronics,Organic,3,294200,211824,0,Completed
+O00520,C0258,2025-07-06,North,Electronics,Marketplace,2,407500,293400,15,Completed
+O00230,C0260,2025-06-22,West,Accessories,Marketplace,3,75700,31794,10,Completed
+O00384,C0016,2025-09-12,West,Fitness,Marketplace,4,206800,124080,0,Completed
+O00008,C0195,2025-02-21,,Home,Paid Search,3,186600,106362,0,Completed
+O00406,C0315,2025-11-01,West,Electronics,Marketplace,1,383400,276048,10,Returned
+O00759,C0187,2025-11-27,East,Electronics,Organic,4,267100,192312,5,Completed
+O00721,C0078,2025-10-30,West,Home,Paid Search,2,191000,108870,5,Completed
+O00661,C0195,2025-10-09,North,Home,Organic,3,136600,77862,15,Returned
+O00423,C0160,2025-06-05,East,Electronics,Paid Search,1,383300,275976,0,Completed
+O00476,C0192,2025-09-25,North,Accessories,Organic,2,73400,30828,10,Completed
+O00360,C0265,2025-09-25,East,Fitness,Organic,3,197000,118200,0,Completed
+O00877,C0308,2025-04-16,South,Home,Paid Search,2,142000,80940,10,Completed
+O00481,C0215,2025-07-16,South,Accessories,Paid Search,4,71200,29904,5,Cancelled
+O00201,C0074,2025-01-16,West,Home,Organic,2,195400,111378,0,Completed
+O00118,C0299,2025-09-12,South,Fitness,Organic,4,175300,105180,20,Completed
+O01137,C0058,2025-07-11,East,Fitness,Marketplace,2,160900,96540,15,Completed
+O00565,C0135,2025-10-08,South,Accessories,Paid Search,4,54900,23058,15,Completed
+O00114,C0274,2025-12-12,West,Accessories,Paid Search,4,89000,37380,15,Completed
+O01053,C0078,2025-04-14,West,Fitness,Organic,1,186700,112020,0,Returned
+O00229,C0072,2025-09-21,East,Home,Marketplace,3,159900,91143,0,Completed
+O01006,C0086,2025-02-03,West,Fitness,Marketplace,3,251900,151140,10,Completed
+O00899,C0189,2025-08-05,South,Fitness,Paid Search,4,144400,86640,0,Completed
+O00297,C0228,2025-06-07,East,Electronics,Paid Search,1,247100,177912,0,Completed
+O00941,C0229,2025-04-20,North,Home,Paid Search,4,146600,83562,15,Completed
+O00034,C0038,2025-06-11,North,Accessories,Paid Search,1,68800,28896,0,Completed
+O01059,C0126,2025-04-12,West,Accessories,Organic,2,53800,22596,5,Completed
+O00516,C0056,2025-10-10,South,Accessories,Marketplace,1,70300,29526,5,Completed
+O00455,C0323,2025-04-16,North,Fitness,Paid Search,4,157300,94380,20,Completed
+O00649,C0119,2025-04-29,North,Home,Paid Search,1,158900,90573,20,Completed
+O00103,C0282,2025-05-17,South,Electronics,Paid Search,4,328300,236376,20,Completed
+O00558,C0098,2025-12-16,West,Accessories,Marketplace,2,54700,22974,0,Completed
+O00639,C0306,2025-09-06,North,Electronics,Organic,2,374200,269424,15,Cancelled
+O01124,C0075,2025-05-20,South,Accessories,Paid Search,1,85200,35784,0,Completed
+O00768,C0268,2025-07-30,West,Home,Organic,4,106700,60819,10,Completed
+O00509,C0044,2025-10-08,East,Fitness,Organic,3,236000,141600,0,Completed
+O01077,C0151,2025-02-10,North,Electronics,Paid Search,1,313000,225360,5,Completed
+O00422,C0170,2025-07-22,South,Fitness,Organic,4,133900,80340,5,Returned
+O00939,C0267,2025-07-13,South,Home,Organic,3,171000,97470,15,Completed
+O00882,C0190,2025-12-10,South,Accessories,Marketplace,1,65600,27552,15,Completed
+O00666,C0143,2025-10-08,South,Electronics,Organic,2,345200,248544,0,Completed
+O01164,C0141,2025-11-03,South,Electronics,Paid Search,1,313300,225576,15,Completed
+O00107,C0307,2025-04-08,South,Home,Organic,3,137100,78147,10,Completed
+O00826,C0007,2025-04-02,West,Fitness,Marketplace,1,201200,120720,10,Completed
+O00090,C0220,2025-10-29,East,Accessories,Marketplace,1,89400,37548,15,Cancelled
+O00102,C0097,2025-01-28,East,Fitness,Marketplace,4,210600,126360,20,Completed
+O00636,C0340,2025-10-26,North,Electronics,Paid Search,2,399200,287424,0,Completed
+O00719,C0014,2025-11-16,East,Electronics,Paid Search,1,364500,262440,0,Completed
+O00291,C0301,2025-04-17,South,Accessories,Marketplace,4,46200,19404,0,Completed
+O00908,C0316,2025-11-13,East,Fitness,Marketplace,4,188000,112800,5,Completed
+O00956,C0093,2025-08-12,West,Electronics,Organic,3,384200,276624,10,Completed
+O00697,C0145,2025-03-29,East,Fitness,Marketplace,2,220400,132240,15,Completed
+O01048,C0307,2025-06-04,West,Home,Organic,2,139900,79743,5,Cancelled
+O00676,C0260,2025-06-03,East,Electronics,Organic,1,371000,267120,20,Completed
+O00292,C0347,2025-07-19,East,Home,Paid Search,2,155900,88863,20,Completed
+O00391,C0091,2025-03-30,South,Fitness,Marketplace,3,198600,119160,20,Completed
+O00447,C0020,2025-01-03,South,Fitness,Marketplace,3,204500,122700,0,Returned
+O00867,C0252,2025-02-11,West,Electronics,Marketplace,4,357200,257184,5,Completed
+O00167,C0020,2025-08-20,North,Accessories,Paid Search,3,69000,28980,0,Completed
+O00610,C0114,2025-07-07,North,Accessories,Organic,2,47900,20118,20,Completed
+O00567,C0293,2025-04-03,South,Accessories,Marketplace,2,68400,28728,0,Completed
+O00182,C0265,2025-02-22,North,Accessories,Paid Search,1,73700,30954,0,Completed
+O00383,C0170,2025-02-17,North,Fitness,Organic,4,152300,91380,0,Completed
+O00972,C0199,2025-07-03,South,Fitness,Marketplace,1,249100,149460,0,Completed
+O00925,C0051,2025-09-13,South,Fitness,Marketplace,3,229600,137760,5,Completed
+O01034,C0211,2025-09-10,North,Electronics,Paid Search,1,333900,240408,0,Completed
+O00920,C0010,2025-01-25,East,Home,Paid Search,3,154900,88293,20,Completed
+O00344,C0245,2025-04-20,North,Electronics,Organic,2,245400,176688,15,Completed
+O00784,C0097,2025-05-30,North,Fitness,Organic,2,130300,78180,15,Completed
+O00536,C0338,2025-09-04,South,Electronics,Marketplace,1,283100,203832,20,Completed
+O00437,C0336,2025-01-14,West,Home,Paid Search,3,171700,97869,10,Completed
+O00556,C0265,2025-06-30,North,Accessories,Marketplace,3,66500,27930,0,Completed
+O00849,C0103,2025-06-10,West,Fitness,Paid Search,3,236500,141900,15,Completed
+O00870,C0103,2025-07-25,East,Home,Paid Search,1,98200,55974,0,Completed
+O00361,C0016,2025-03-02,East,Accessories,Paid Search,3,82900,34818,15,Completed
+O00421,C0243,2025-11-08,North,Fitness,Organic,3,243100,145860,10,Completed
+O00424,C0214,2025-05-18,North,Fitness,Organic,4,191700,115020,0,Returned
+O00467,C0161,2025-12-02,North,Electronics,Marketplace,2,352100,253512,20,Returned
+O00665,C0338,2025-10-29,West,Home,Paid Search,4,120100,68457,10,Completed
+O00923,C0235,2025-08-13,North,Electronics,Organic,1,265600,191232,15,Completed
+O00717,C0216,2025-06-19,East,Fitness,Paid Search,3,243500,146100,0,Completed
+O00128,C0047,2025-07-07,West,Fitness,Organic,3,240100,144060,15,Completed
+O00839,C0015,2025-02-01,North,Accessories,Organic,3,61800,25956,5,Completed
+O00515,C0069,2025-07-04,East,Fitness,Paid Search,4,182600,109560,10,Completed
+O00315,C0248,2025-09-24,East,Fitness,Paid Search,1,168300,100980,10,Completed
+O00310,C0274,2025-07-25,West,Fitness,Marketplace,1,245200,147120,5,Completed
+O01062,C0305,2025-06-03,South,Fitness,Marketplace,2,143000,85800,5,Completed
+O00373,C0259,2025-02-18,South,Electronics,Marketplace,4,482800,347616,0,Completed
+O00834,C0280,2025-10-04,North,Accessories,Organic,4,86800,36456,0,Completed
+O00380,C0232,2025-07-27,South,Home,Organic,4,101000,57570,0,Completed
+O00928,C0220,2025-03-12,West,Fitness,Paid Search,4,172700,103620,15,Completed
+O00591,C0047,2025-04-30,South,Fitness,Organic,4,127600,76560,0,Completed
+O00696,C0233,2025-06-16,West,Accessories,Organic,1,85700,35994,10,Completed
+O00196,C0226,2025-07-24,West,Accessories,Paid Search,2,67700,28434,10,Completed
+O00215,C0320,2025-12-04,East,Home,Marketplace,1,115400,65778,0,Completed
+O00357,C0275,2025-03-21,East,Home,Paid Search,1,180600,102942,5,Completed
+O01043,C0173,2025-01-08,South,Fitness,Marketplace,1,131700,79020,0,Cancelled
+O00387,C0010,2025-10-06,West,Home,Marketplace,3,162400,92568,10,Completed
+O01109,C0062,2025-01-06,North,Fitness,Organic,1,201200,120720,10,Completed
+O01070,C0301,2025-12-28,North,Fitness,Marketplace,2,207400,124440,10,Completed
+O01018,C0044,2025-06-24,East,Fitness,Organic,4,220400,132240,20,Completed
+O00560,C0340,2025-12-13,West,Electronics,Marketplace,1,277100,199512,15,Cancelled
+O00957,C0087,2025-10-05,East,Electronics,Organic,2,285600,205632,5,Completed
+O00431,C0210,2025-11-30,North,Home,Marketplace,1,125400,71478,10,Returned
+O01102,C0166,2025-03-09,North,Fitness,Marketplace,3,145900,87540,10,Completed
+O00764,C0233,2025-11-09,South,Home,Paid Search,3,120000,68400,0,Completed
+O01046,C0008,2025-03-30,West,Accessories,Marketplace,3,61900,25998,0,Completed
+O00038,C0325,2025-12-18,East,Accessories,Marketplace,4,55800,23436,5,Returned
+O00100,C0254,2025-07-30,East,Home,Marketplace,4,131600,75012,15,Completed
+O00940,C0076,2025-02-20,West,Accessories,Paid Search,1,68600,28812,0,Completed
+O00655,C0265,2025-07-18,North,Electronics,Organic,3,473400,340848,10,Completed
+O00461,C0149,2025-01-21,East,Home,Marketplace,3,187400,106818,10,Completed
+O01036,C0205,2025-06-25,South,Fitness,Paid Search,1,204000,122400,0,Completed
+O00129,C0135,2025-12-11,West,Accessories,Marketplace,3,79800,33516,0,Completed
+O00878,C0135,2025-05-29,South,Home,Marketplace,4,100800,57456,0,Completed
+O00853,C0137,2025-07-31,East,Electronics,Marketplace,2,328300,236376,5,Completed
+O00462,C0071,2025-01-05,South,Electronics,Paid Search,3,263700,189864,10,Cancelled
+O00004,C0217,2025-12-24,,Electronics,Paid Search,2,310300,223416,0,Cancelled
+O00740,C0207,2025-08-12,North,Fitness,Marketplace,2,223900,134340,0,Completed
+O00534,C0198,2025-07-13,South,Electronics,Organic,1,339100,244152,0,Completed
+O00270,C0210,2025-08-02,South,Accessories,Paid Search,4,81000,34020,0,Completed
+O00417,C0322,2025-04-14,South,Electronics,Marketplace,3,423300,304776,5,Returned
+O00691,C0160,2025-02-06,East,Home,Marketplace,4,115400,65778,0,Completed
+O00812,C0287,2025-04-07,North,Home,Paid Search,4,183000,104310,0,Completed
+O01064,C0003,2025-04-08,North,Home,Marketplace,3,113700,64809,10,Completed
+O00929,C0075,2025-08-15,North,Accessories,Marketplace,1,46900,19698,0,Completed
+O00886,C0078,2025-09-09,West,Home,Organic,2,130200,74214,0,Completed
+O00512,C0066,2025-07-02,South,Fitness,Organic,3,193700,116220,15,Completed
+O00152,C0111,2025-09-29,West,Electronics,Paid Search,4,282500,203400,5,Completed
+O00470,C0143,2025-06-19,North,Accessories,Marketplace,2,57700,24234,15,Completed
+O00919,C0311,2025-03-22,West,Home,Organic,4,118300,67431,10,Completed
+O00155,C0057,2025-08-09,East,Electronics,Marketplace,4,386300,278136,15,Completed
+O00015,C0349,2025-01-06,North,Accessories,Marketplace,-1,73700,30954,20,Completed
+O01057,C0036,2025-09-09,South,Electronics,Organic,2,271400,195408,0,Completed
+O00751,C0024,2025-04-20,South,Home,Paid Search,1,130800,74556,0,Completed
+O00755,C0211,2025-08-19,South,Accessories,Organic,1,72100,30282,15,Completed
+O00846,C0039,2025-11-22,South,Home,Paid Search,3,148700,84759,0,Completed
+O01191,C0171,2025-11-22,South,Fitness,Marketplace,2,249200,149520,10,Completed
+O01074,C0336,2025-08-02,East,Fitness,Marketplace,4,233500,140100,0,Completed
+O00844,C0200,2025-10-20,East,Accessories,Marketplace,1,64700,27174,10,Completed
+O00681,C0274,2025-11-17,South,Accessories,Marketplace,4,64600,27132,0,Completed
+O00332,C0313,2025-12-30,West,Accessories,Organic,2,89400,37548,0,Completed
+O00149,C0247,2025-12-03,South,Home,Organic,3,113700,64809,15,Completed
+O00632,C0023,2025-08-14,South,Fitness,Organic,3,155800,93480,0,Completed
+O00593,C0201,2025-05-17,North,Home,Marketplace,4,103600,59052,0,Completed
+O00684,C0228,2025-02-17,North,Home,Paid Search,2,191400,109098,0,Completed
+O00741,C0275,2025-10-18,East,Fitness,Paid Search,3,150800,90480,10,Completed
+O00080,C0331,2025-09-01,West,Home,Paid Search,1,168600,96102,0,Completed
+O00967,C0203,2025-02-15,North,Electronics,Organic,3,368100,265032,10,Completed
+O00612,C0021,2025-09-28,North,Electronics,Paid Search,1,353800,254736,0,Cancelled
+O00916,C0225,2025-06-26,South,Home,Marketplace,2,145900,83163,15,Returned
+O00802,C0252,2025-10-11,North,Fitness,Paid Search,3,185200,111120,10,Completed
+O00575,C0150,2025-12-01,East,Accessories,Marketplace,4,61600,25872,5,Returned
+O00011,C0138,2025-07-25,,Electronics,Organic,3,374200,269424,0,Completed
+O00843,C0216,2025-09-21,East,Fitness,Organic,4,242300,145380,15,Completed
+O01189,C0296,2025-02-27,West,Fitness,Marketplace,3,139700,83820,0,Completed
+O00585,C0005,2025-06-03,West,Fitness,Paid Search,2,223700,134220,0,Completed
+O00710,C0337,2025-09-07,West,Electronics,Organic,1,303900,218808,0,Completed
+O00935,C0082,2025-11-22,North,Accessories,Organic,3,84100,35322,0,Completed
+O00364,C0242,2025-01-24,East,Electronics,Paid Search,2,345100,248472,0,Returned
+O00448,C0003,2025-12-13,South,Home,Organic,3,99700,56829,5,Completed
+O00714,C0298,2025-02-27,West,Fitness,Marketplace,1,201400,120840,0,Completed
+O00165,C0326,2025-11-26,East,Fitness,Marketplace,3,241600,144960,0,Completed
+O00803,C0002,2025-01-14,South,Fitness,Paid Search,3,171900,103140,20,Completed
+O00706,C0028,2025-10-09,North,Electronics,Marketplace,3,396200,285264,0,Returned
+O00549,C0346,2025-03-28,North,Home,Paid Search,2,160800,91656,20,Completed
+O00487,C0017,2025-10-05,East,Accessories,Paid Search,1,55800,23436,15,Returned
+O00494,C0282,2025-10-21,East,Accessories,Organic,3,70500,29610,15,Completed
+O00984,C0038,2025-05-02,West,Accessories,Organic,4,72000,30240,15,Completed
+O00965,C0001,2025-03-27,North,Accessories,Paid Search,3,78800,33096,15,Completed
+O00358,C0045,2025-05-06,West,Home,Organic,4,103800,59166,15,Completed
+O00204,C0014,2025-02-28,South,Accessories,Paid Search,4,58100,24402,15,Completed
+O00169,C0244,2025-11-06,South,Home,Organic,4,130800,74556,0,Completed
+O00305,C0091,2025-06-10,West,Home,Paid Search,3,146900,83733,20,Completed
+O00772,C0152,2025-07-03,South,Home,Marketplace,1,111400,63498,0,Completed
+O00351,C0311,2025-09-23,South,Accessories,Marketplace,4,55900,23478,5,Completed
+O00439,C0154,2025-09-17,South,Fitness,Marketplace,2,199400,119640,5,Completed
+O00924,C0061,2025-11-19,South,Electronics,Paid Search,2,313400,225648,20,Completed
+O01121,C0138,2025-11-19,South,Home,Marketplace,3,105100,59907,15,Completed
+O00095,C0158,2025-03-26,East,Electronics,Paid Search,1,269400,193968,10,Completed
+O01007,C0192,2025-12-31,West,Home,Marketplace,4,130800,74556,10,Completed
+O00851,C0273,2025-11-23,West,Fitness,Marketplace,1,180800,108480,15,Completed
+O00110,C0120,2025-07-16,West,Home,Organic,3,156400,89148,20,Completed
+O01147,C0257,2025-07-24,West,Home,Organic,1,131100,74727,0,Completed
+O00915,C0254,2025-03-01,East,Fitness,Paid Search,4,222900,133740,0,Completed
+O00686,C0060,2025-09-25,North,Fitness,Paid Search,1,205300,123180,20,Completed
+O00220,C0063,2025-08-27,East,Accessories,Paid Search,2,57700,24234,0,Completed
+O00538,C0131,2025-03-10,West,Electronics,Organic,1,419200,301824,5,Completed
+O00430,C0198,2025-01-15,North,Electronics,Organic,2,361700,260424,0,Completed
+O00893,C0138,2025-11-18,North,Fitness,Paid Search,1,218900,131340,20,Completed
+O00463,C0191,2025-02-17,East,Accessories,Organic,1,90300,37926,10,Completed
+O00730,C0051,2025-07-30,North,Electronics,Marketplace,4,249800,179856,5,Completed
+O00895,C0196,2025-11-05,North,Electronics,Paid Search,3,469100,337752,0,Completed
+O00306,C0167,2025-05-05,West,Fitness,Paid Search,4,243900,146340,5,Completed
+O00084,C0152,2025-04-10,South,Accessories,Paid Search,2,50500,21210,5,Completed
+O00415,C0244,2025-05-01,East,Fitness,Organic,4,243200,145920,20,Completed
+O00281,C0329,2025-10-05,North,Home,Marketplace,1,191700,109269,0,Returned
+O00071,C0132,2025-12-25,East,Home,Organic,1,145500,82935,0,Cancelled
+O01091,C0171,2025-12-21,South,Fitness,Marketplace,1,144500,86700,20,Completed
+O00086,C0294,2025-01-07,East,Fitness,Paid Search,4,147000,88200,10,Completed
+O00181,C0310,2025-04-13,South,Fitness,Paid Search,1,159100,95460,20,Completed
+O00651,C0017,2025-04-26,West,Home,Organic,3,117600,67032,10,Completed
+O00259,C0038,2025-10-24,North,Electronics,Paid Search,3,334200,240624,20,Completed
+O00277,C0241,2025-02-20,East,Fitness,Organic,3,221400,132840,5,Completed
+O01175,C0091,2025-04-05,South,Home,Marketplace,4,144900,82593,20,Completed
+O00701,C0306,2025-10-31,West,Fitness,Paid Search,1,149400,89640,10,Completed
+O00777,C0090,2025-07-07,North,Electronics,Marketplace,2,394700,284184,0,Cancelled
+O01143,C0220,2025-07-06,South,Accessories,Marketplace,3,60700,25494,0,Cancelled
+O00024,C0209,2025-08-31,South,Fitness, paid search ,1,175700,105420,20,Completed
+O00889,C0048,2025-06-28,South,Home,Paid Search,2,110500,62985,0,Completed
+O00217,C0248,2025-06-04,South,Accessories,Marketplace,4,78200,32844,5,Completed
+O00056,C0234,2025-02-07,West,Fitness,Marketplace,2,251100,150660,20,Completed
+O01177,C0331,2025-08-21,West,Fitness,Organic,2,176200,105720,20,Completed
+O00485,C0217,2025-05-27,North,Fitness,Marketplace,1,235300,141180,0,Completed
+O01003,C0074,2025-03-02,South,Fitness,Organic,2,139300,83580,15,Completed
+O00441,C0216,2025-06-07,East,Accessories,Paid Search,3,56800,23856,15,Completed
+O00809,C0307,2025-02-18,South,Home,Marketplace,3,176200,100434,5,Completed
+O00371,C0122,2025-09-29,West,Electronics,Paid Search,1,329000,236880,0,Completed
+O00828,C0102,2025-07-06,East,Home,Organic,4,104500,59565,0,Completed
+O00959,C0051,2025-07-19,East,Electronics,Organic,4,367000,264240,5,Completed
+O00064,C0200,2025-06-02,West,Electronics,Marketplace,2,389000,280080,10,Completed
+O00390,C0337,2025-05-07,South,Home,Paid Search,1,108100,61617,0,Completed
+O00793,C0058,2025-12-19,West,Fitness,Organic,2,195300,117180,20,Completed
+O00616,C0282,2025-06-11,East,Fitness,Paid Search,4,198100,118860,20,Completed
+O01012,C0196,2025-05-20,North,Fitness,Organic,4,190900,114540,0,Completed
+O00033,C0343,2025-04-15,East,Accessories,Organic,3,58700,24654,10,Completed
+O00582,C0234,2025-11-02,West,Home,Marketplace,3,158400,90288,5,Completed
+O00328,C0017,2025-05-30,East,Electronics,Organic,3,335300,241416,0,Completed
+O00438,C0293,2025-12-29,South,Electronics,Paid Search,2,483800,348336,20,Completed
+O00299,C0167,2025-11-03,West,Electronics,Organic,3,489500,352440,10,Completed
+O00963,C0257,2025-11-22,South,Fitness,Organic,3,143100,85860,15,Cancelled
+O00319,C0220,2025-10-31,West,Home,Organic,2,143900,82023,0,Completed
+O00079,C0265,2025-01-06,South,Accessories,Organic,2,73800,30996,20,Completed
+O00120,C0328,2025-06-03,West,Accessories,Marketplace,3,75400,31668,10,Completed
+O00571,C0134,2025-06-21,East,Electronics,Paid Search,3,429200,309024,5,Completed
+O00235,C0288,2025-04-17,East,Home,Marketplace,4,151000,86070,15,Completed
+O00976,C0338,2025-04-10,South,Home,Organic,2,154400,88008,20,Completed
+O00436,C0265,2025-03-18,South,Accessories,Organic,4,55000,23100,20,Completed
+O00996,C0254,2025-01-22,South,Electronics,Organic,2,431000,310320,20,Completed
+O00702,C0056,2025-11-03,West,Fitness,Paid Search,4,140200,84120,20,Completed
+O00650,C0241,2025-11-06,East,Home,Organic,4,149300,85101,10,Completed
+O00133,C0213,2025-03-21,North,Fitness,Paid Search,4,246200,147720,5,Completed
+O00674,C0061,2025-11-17,South,Electronics,Marketplace,4,435400,313488,10,Completed
+O00823,C0057,2025-08-27,South,Accessories,Paid Search,3,51700,21714,20,Completed
+O00409,C0185,2025-01-28,North,Fitness,Paid Search,1,157400,94440,5,Completed
+O00888,C0183,2025-08-15,West,Fitness,Paid Search,4,134300,80580,0,Completed
+O00813,C0246,2025-01-09,East,Home,Paid Search,3,192400,109668,0,Completed
+O00222,C0256,2025-03-23,West,Home,Paid Search,3,176000,100320,10,Completed
+O00370,C0005,2025-12-22,East,Accessories,Organic,4,77900,32718,20,Completed
+O00176,C0110,2025-04-03,East,Accessories,Paid Search,2,61200,25704,0,Cancelled
+O00224,C0345,2025-12-01,West,Fitness,Paid Search,1,248300,148980,0,Completed
+O00953,C0278,2025-11-13,North,Electronics,Marketplace,2,323800,233136,10,Completed
+O01198,C0077,2025-08-02,South,Electronics,Paid Search,2,478100,344232,20,Completed
+O00955,C0311,2025-10-01,East,Fitness,Paid Search,1,143300,85980,10,Returned
+O00715,C0041,2025-09-22,North,Accessories,Organic,4,69200,29064,20,Completed
+O01171,C0321,2025-01-30,North,Accessories,Paid Search,2,62000,26040,20,Cancelled
+O00947,C0216,2025-10-29,North,Home,Paid Search,3,178100,101517,0,Completed
+O00796,C0202,2025-09-20,South,Fitness,Paid Search,3,143800,86280,15,Completed
+O00457,C0312,2025-04-12,South,Electronics,Paid Search,2,448800,323136,5,Completed
+O00150,C0220,2025-04-26,North,Accessories,Marketplace,3,74700,31374,0,Completed
+O00818,C0106,2025-11-05,South,Electronics,Organic,3,295700,212904,0,Completed
+O00325,C0251,2025-03-27,East,Home,Organic,2,154700,88179,5,Completed
+O00770,C0021,2025-01-23,West,Electronics,Marketplace,1,416100,299592,10,Completed
+O01118,C0073,2025-04-07,East,Home,Organic,2,101600,57912,15,Completed
+O00216,C0293,2025-04-18,West,Accessories,Marketplace,1,78700,33054,10,Returned
+O00317,C0265,2025-05-05,South,Electronics,Marketplace,2,312300,224856,5,Completed
+O00017,C0260,2025-11-24,South,Electronics,Organic,-1,367200,264384,0,Completed
+O00502,C0236,2025-01-13,East,Electronics,Organic,1,307900,221688,0,Completed
+O00117,C0126,2025-03-16,West,Accessories,Marketplace,2,67400,28308,0,Completed
+O00088,C0289,2025-03-18,East,Electronics,Organic,2,307100,221112,0,Completed
+O00539,C0003,2025-04-07,North,Fitness,Marketplace,1,178700,107220,15,Completed
+O00922,C0182,2025-06-24,North,Fitness,Marketplace,3,178800,107280,0,Completed
+O01037,C0238,2025-12-10,West,Home,Paid Search,1,131300,74841,0,Completed
+O00847,C0048,2025-11-16,North,Fitness,Marketplace,3,172200,103320,5,Completed
+O00171,C0313,2025-09-25,South,Fitness,Paid Search,3,233300,139980,5,Completed
+O00766,C0057,2025-03-11,West,Electronics,Paid Search,4,359900,259128,0,Completed
+O01100,C0201,2025-10-08,East,Home,Paid Search,4,100100,57057,5,Completed
+O01050,C0247,2025-12-08,North,Accessories,Paid Search,1,88900,37338,15,Returned
+O00752,C0190,2025-12-23,South,Fitness,Paid Search,2,160400,96240,15,Completed
+O00903,C0292,2025-12-05,East,Electronics,Paid Search,3,435300,313416,15,Completed
+O00265,C0009,2025-11-11,South,Electronics,Organic,1,416700,300024,0,Completed
+O00838,C0201,2025-01-29,East,Home,Paid Search,4,149700,85329,15,Completed
+O00822,C0195,2025-07-01,West,Electronics,Organic,2,319000,229680,10,Completed
+O00588,C0273,2025-11-29,East,Accessories,Paid Search,2,59900,25158,0,Completed
+O01094,C0160,2025-01-01,North,Fitness,Marketplace,2,244100,146460,10,Cancelled
+O01115,C0260,2025-03-05,East,Electronics,Paid Search,2,279600,201312,10,Cancelled
+O01000,C0090,2025-05-15,East,Home,Marketplace,2,188500,107445,0,Completed
+O00254,C0282,2025-12-26,West,Accessories,Marketplace,2,66600,27972,0,Completed
+O00288,C0005,2025-11-23,South,Fitness,Organic,4,137400,82440,10,Completed
+O00906,C0041,2025-04-05,East,Home,Marketplace,1,119500,68115,10,Completed
+O00525,C0193,2025-05-09,South,Electronics,Marketplace,4,456600,328752,5,Completed
+O00970,C0345,2025-01-05,South,Fitness,Paid Search,4,126800,76080,10,Completed
+O00118,C0299,2025-09-12,South,Fitness,Organic,4,175300,105180,20,Completed
+O00944,C0243,2025-08-22,North,Electronics,Marketplace,2,332000,239040,15,Completed
+O00367,C0239,2025-02-05,East,Electronics,Paid Search,3,409200,294624,0,Completed
+O00146,C0035,2025-08-31,North,Home,Organic,1,168200,95874,10,Completed
+O00183,C0047,2025-08-12,South,Home,Paid Search,3,182900,104253,0,Completed
+O00724,C0028,2025-06-26,East,Home,Organic,1,157000,89490,0,Completed
+O00745,C0251,2025-05-03,West,Electronics,Organic,3,487800,351216,10,Completed
+O00574,C0314,2025-11-20,West,Accessories,Organic,1,66900,28098,0,Completed
+O00140,C0230,2025-09-01,East,Electronics,Marketplace,1,271000,195120,10,Completed
+O01134,C0316,2025-01-08,South,Electronics,Marketplace,1,411000,295920,20,Completed
+O00606,C0095,2025-07-14,North,Electronics,Marketplace,3,452200,325584,15,Completed
+O00348,C0322,2025-04-20,South,Fitness,Paid Search,4,197900,118740,0,Completed
+O00643,C0202,2025-06-24,South,Home,Organic,4,113400,64638,15,Cancelled
+O00932,C0076,2025-11-09,West,Accessories,Paid Search,2,72400,30408,15,Completed
+O00193,C0094,2025-11-20,South,Fitness,Organic,4,224000,134400,0,Completed
+O01022,C0309,2025-11-19,West,Accessories,Paid Search,2,74400,31248,10,Completed
+O00179,C0146,2025-11-09,West,Home,Organic,2,143300,81681,5,Cancelled
+O01173,C0113,2025-08-15,East,Home,Paid Search,2,181500,103455,15,Completed
+O00293,C0224,2025-02-20,South,Accessories,Organic,3,48100,20202,15,Completed
+O00031,C0081,2025-09-29,North,Fitness,Marketplace,1,228900,137340,0,Completed
+O01200,C0089,2025-11-06,South,Electronics,Organic,4,258100,185832,10,Completed
+O01019,C0016,2025-10-13,East,Fitness,Organic,2,218100,130860,5,Returned
+O00313,C0201,2025-07-11,West,Home,Marketplace,2,143500,81795,5,Cancelled
+O00154,C0227,2025-05-20,West,Electronics,Paid Search,4,278400,200448,10,Completed
+O00428,C0326,2025-07-23,North,Fitness,Marketplace,1,229400,137640,0,Completed
+O00490,C0332,2025-11-21,East,Fitness,Marketplace,2,172100,103260,20,Cancelled
+O00794,C0317,2025-07-25,South,Accessories,Paid Search,3,46600,19572,0,Completed
+O00082,C0233,2025-12-26,East,Accessories,Paid Search,3,63400,26628,0,Completed
+O00883,C0174,2025-09-10,West,Home,Organic,1,149400,85158,5,Completed
+O00738,C0229,2025-05-09,North,Electronics,Paid Search,2,479000,344880,20,Completed
+O00596,C0349,2025-07-19,East,Home,Paid Search,2,146300,83391,20,Completed
+O00695,C0133,2025-11-12,East,Home,Paid Search,2,112600,64182,20,Returned
+O00269,C0219,2025-12-14,West,Home,Organic,3,162000,92340,20,Completed
+O00917,C0240,2025-12-03,South,Accessories,Paid Search,4,76200,32004,10,Completed
+O00700,C0176,2025-10-18,South,Fitness,Organic,1,215100,129060,20,Returned
+O01072,C0294,2025-11-22,East,Electronics,Organic,3,289700,208584,20,Completed
+O01058,C0105,2025-10-09,South,Home,Marketplace,1,158500,90345,10,Completed
+O00116,C0154,2025-03-27,North,Electronics,Organic,3,426700,307224,0,Completed
+O00330,C0112,2025-10-07,West,Electronics,Organic,2,425700,306504,5,Returned
+O00289,C0271,2025-02-18,North,Accessories,Organic,2,74300,31206,20,Returned
+O00442,C0325,2025-01-28,North,Electronics,Paid Search,2,437700,315144,15,Completed
+O00475,C0338,2025-02-19,South,Fitness,Organic,3,149300,89580,5,Completed
+O00192,C0069,2025-06-20,North,Electronics,Paid Search,3,483300,347976,20,Completed
+O00162,C0114,2025-06-23,East,Accessories,Organic,1,83500,35070,15,Completed
+O00949,C0173,2025-08-20,West,Accessories,Paid Search,2,74300,31206,0,Completed
+O00311,C0337,2025-05-08,East,Electronics,Organic,1,289700,208584,15,Cancelled
+O00331,C0179,2025-05-15,North,Electronics,Paid Search,1,429200,309024,0,Completed
+O00595,C0102,2025-01-18,West,Fitness,Marketplace,1,176600,105960,15,Completed
+O00077,C0292,2025-08-26,West,Fitness,Paid Search,1,175900,105540,10,Completed
+O00977,C0268,2025-04-27,East,Accessories,Organic,1,74500,31290,20,Completed
+O00783,C0012,2025-11-18,East,Home,Paid Search,2,151200,86184,10,Completed
+O00049,C0276,2025-09-24,South,Fitness,Paid Search,4,126300,75780,0,Returned
+O00308,C0036,2025-12-21,West,Accessories,Marketplace,4,87900,36918,0,Completed
+O01029,C0004,2025-04-14,South,Fitness,Paid Search,1,182400,109440,10,Completed
+O00207,C0149,2025-10-05,East,Electronics,Organic,2,470200,338544,5,Completed
+O01032,C0092,2025-05-08,West,Home,Paid Search,4,140400,80028,20,Completed
+O00835,C0227,2025-07-12,West,Accessories,Organic,1,89000,37380,0,Completed
+O00679,C0029,2025-07-31,East,Accessories,Marketplace,3,69000,28980,15,Completed
+O00200,C0141,2025-08-11,North,Accessories,Organic,4,76800,32256,5,Completed
+O00266,C0025,2025-12-11,South,Fitness,Marketplace,1,248400,149040,10,Completed
+O00729,C0347,2025-06-22,South,Home,Paid Search,1,151100,86127,20,Completed
+O00801,C0285,2025-03-31,West,Accessories,Marketplace,2,66600,27972,0,Completed
+O01159,C0186,2025-07-04,East,Home,Organic,3,131800,75126,0,Completed
+O00400,C0040,2025-06-19,South,Fitness,Paid Search,3,154800,92880,0,Completed
+O01025,C0106,2025-05-26,South,Electronics,Paid Search,1,403000,290160,10,Completed
+O00816,C0248,2025-01-10,West,Electronics,Organic,2,276800,199296,0,Completed
+O00579,C0317,2025-05-15,South,Electronics,Organic,4,287500,207000,5,Completed
+O00731,C0018,2025-04-09,North,Accessories,Marketplace,1,58200,24444,0,Returned
+O00018,C0010,2025-09-08,North,Electronics,Paid Search,-1,377700,271944,0,Completed
+O00633,C0125,2025-01-28,South,Electronics,Paid Search,1,291000,209520,5,Completed
+O00191,C0183,2025-01-09,North,Accessories,Paid Search,2,58300,24486,20,Completed
+O00645,C0071,2025-12-01,South,Home,Organic,3,119000,67830,20,Completed
+O00099,C0241,2025-02-16,East,Fitness,Paid Search,3,226700,136020,5,Completed
+O00094,C0279,2025-02-28,South,Home,Marketplace,2,141400,80598,5,Completed
+O00991,C0300,2025-06-09,West,Electronics,Marketplace,3,297200,213984,5,Completed
+O01155,C0057,2025-06-05,East,Fitness,Paid Search,3,136500,81900,5,Completed
+O00092,C0210,2025-01-02,West,Electronics,Marketplace,4,309100,222552,5,Completed
+O01157,C0144,2025-08-30,North,Home,Paid Search,2,127100,72447,5,Returned
+O00175,C0344,2025-03-07,North,Accessories,Marketplace,4,87000,36540,15,Completed
+O00552,C0100,2025-11-07,West,Accessories,Paid Search,1,56900,23898,5,Completed
+O00493,C0080,2025-08-27,North,Electronics,Organic,3,380300,273816,15,Completed
+O00067,C0094,2025-08-25,North,Home,Paid Search,4,186600,106362,5,Completed
+O00414,C0284,2025-04-27,North,Fitness,Paid Search,4,246700,148020,15,Completed
+O01130,C0258,2025-08-28,East,Fitness,Paid Search,4,198400,119040,15,Returned
+O00385,C0229,2025-05-24,South,Home,Organic,2,126000,71820,20,Completed
+O00634,C0242,2025-08-19,North,Electronics,Paid Search,2,369900,266328,20,Completed
+O00023,C0143,2025-05-02,West,Electronics, paid search ,2,455500,327960,20,Returned
+O00106,C0140,2025-12-28,West,Accessories,Paid Search,4,71400,29988,0,Completed
+O00134,C0228,2025-08-16,South,Accessories,Paid Search,1,56500,23730,20,Completed
+O00219,C0177,2025-06-13,West,Accessories,Organic,3,89500,37590,15,Completed
+O01110,C0294,2025-10-28,West,Home,Paid Search,1,100200,57114,15,Completed
+O00334,C0137,2025-10-21,North,Accessories,Organic,4,60200,25284,0,Cancelled
+O00578,C0243,2025-02-02,North,Electronics,Organic,4,284100,204552,15,Completed
+O00491,C0350,2025-04-01,North,Accessories,Organic,2,68300,28686,20,Completed
+O00058,C0128,2025-10-13,North,Fitness,Paid Search,2,136200,81720,10,Completed
+O00688,C0165,2025-04-18,South,Accessories,Organic,3,78100,32802,5,Completed
+O00743,C0098,2025-12-05,East,Electronics,Marketplace,4,402300,289656,0,Completed
+O00160,C0208,2025-02-28,North,Fitness,Paid Search,2,185200,111120,15,Completed
+O00214,C0156,2025-11-17,North,Accessories,Marketplace,2,51800,21756,15,Returned
+O00223,C0124,2025-08-23,South,Fitness,Marketplace,3,229500,137700,0,Completed
+O00553,C0258,2025-02-07,East,Electronics,Paid Search,1,473800,341136,15,Cancelled
+O00399,C0094,2025-01-17,East,Fitness,Marketplace,2,242200,145320,20,Completed
+O00869,C0015,2025-12-22,North,Accessories,Marketplace,2,68600,28812,20,Completed
+O00761,C0304,2025-08-16,East,Electronics,Paid Search,2,341300,245736,20,Completed
+O00112,C0226,2025-02-21,North,Accessories,Marketplace,4,89900,37758,0,Completed
+O00338,C0341,2025-11-22,East,Electronics,Organic,4,432700,311544,0,Cancelled
+O00780,C0270,2025-09-14,North,Fitness,Paid Search,3,225500,135300,10,Completed
+O00830,C0143,2025-09-19,South,Fitness,Paid Search,1,225200,135120,0,Completed
+O00642,C0321,2025-02-01,East,Accessories,Paid Search,1,86900,36498,15,Returned
+O00978,C0233,2025-10-14,North,Accessories,Paid Search,1,80200,33684,5,Completed
+O00960,C0123,2025-04-14,South,Electronics,Paid Search,4,266200,191664,0,Completed
+O00159,C0236,2025-01-10,North,Electronics,Paid Search,4,423600,304992,15,Completed
+O01146,C0341,2025-09-03,East,Home,Organic,4,195000,111150,10,Completed
+O00377,C0232,2025-04-17,East,Accessories,Paid Search,3,84800,35616,0,Completed
+O00804,C0341,2025-12-01,East,Fitness,Paid Search,2,151400,90840,10,Returned
+O00449,C0157,2025-10-29,South,Fitness,Organic,1,229000,137400,5,Returned
+O00115,C0148,2025-11-20,South,Electronics,Marketplace,1,341100,245592,10,Cancelled
+O00821,C0259,2025-04-20,West,Electronics,Paid Search,2,285400,205488,10,Completed
+O00434,C0004,2025-02-22,East,Fitness,Marketplace,3,245700,147420,5,Completed
+O00257,C0229,2025-09-19,North,Fitness,Paid Search,2,144600,86760,15,Completed
+O00774,C0321,2025-07-09,West,Fitness,Marketplace,1,163800,98280,20,Completed
+O01069,C0309,2025-05-07,South,Home,Organic,1,123900,70623,0,Completed
+O00189,C0181,2025-11-11,South,Fitness,Marketplace,4,126300,75780,0,Completed
+O00557,C0284,2025-02-08,South,Fitness,Paid Search,3,196000,117600,5,Completed
+O00322,C0235,2025-06-30,South,Electronics,Marketplace,3,387500,279000,15,Completed
+O00868,C0134,2025-12-24,North,Electronics,Paid Search,4,310600,223632,15,Completed
+O00466,C0067,2025-01-15,West,Accessories,Paid Search,1,76700,32214,10,Completed
+O00627,C0043,2025-06-22,West,Home,Marketplace,1,111400,63498,15,Completed
+O01028,C0295,2025-11-06,East,Fitness,Marketplace,2,158500,95100,15,Completed
+O01172,C0276,2025-01-09,North,Home,Marketplace,4,124100,70737,20,Completed
+O00529,C0012,2025-07-30,South,Home,Organic,2,164100,93537,15,Completed
+O01135,C0271,2025-12-05,North,Accessories,Marketplace,4,57900,24318,0,Completed
+O00931,C0349,2025-07-25,East,Accessories,Marketplace,3,66800,28056,5,Completed
